@@ -1,0 +1,1 @@
+Mercenaries are people in the Chromatic universe whose goals include killing or fighting against [[Chromatics|Chromatics]]. The term "Mercenary" is pretty general, and it extends beyond people who would be considered regular mercenaries.

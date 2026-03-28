@@ -1,0 +1,3 @@
+If a [[Chromatics]] wishes to obtain training before taking on missions, they can seek a mentorship to train with an experienced Chromatic. A Chromatic can apply for a mentorship as soon as they become a Chromatic, and a Chromatic can become a mentor when they reach [[Class]] 6.
+
+Chromatics can continue training with the mentor until they or the mentor feel ready for the Chromatic to be left on their own.
