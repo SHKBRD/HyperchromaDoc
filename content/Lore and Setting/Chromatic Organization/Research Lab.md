@@ -1,0 +1,1 @@
+This lab researched the [[Serums|Serums]], [[Mesh Metal]], [[Healing Table|Healing Tables]], and [[Blood Encoding]] technologies that were eventually put in large scale use once the [[Lead Researcher]] established an [[Chromatic Organization|organization]] for the Chromatic [[Agency|agencies]].

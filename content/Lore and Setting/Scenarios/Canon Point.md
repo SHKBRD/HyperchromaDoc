@@ -1,0 +1,1 @@
+The Canon Point is the single point in time between the "canon" [[Past Events]] and the "non-canon" [[Scenarios]]. As of now, the rough estimate for when the Canon Point occurs is in the 26th century.
