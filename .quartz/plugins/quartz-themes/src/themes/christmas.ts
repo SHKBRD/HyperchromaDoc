@@ -1,0 +1,1202 @@
+import type { ThemeData } from "../types.js";
+
+export const theme: ThemeData = {
+  meta: { name: "christmas", modes: ["dark"], variations: [], fonts: [] },
+  dark: {
+    base: `:root:root {
+  --background-accent: #b5aa29 !important;
+  --background-modifier-border: rgba(0, 0, 0, 0.25) !important;
+  --background-primary: #35674d !important;
+  --background-primary-alt: #2c5640 !important;
+  --background-secondary: #a23227 !important;
+  --background-secondary-alt: #952e24 !important;
+  --bases-cards-background: #35674d !important;
+  --bases-cards-cover-background: #2c5640 !important;
+  --bases-cards-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25) !important;
+  --bases-embed-border-color: rgba(0, 0, 0, 0.25) !important;
+  --bases-group-heading-property-color: #f2f2f2 !important;
+  --bases-table-border-color: rgba(0, 0, 0, 0.25) !important;
+  --bases-table-cell-background-active: #35674d !important;
+  --bases-table-cell-background-disabled: #2c5640 !important;
+  --bases-table-cell-shadow-focus: 0 0 0 2px #ffbf00 !important;
+  --bases-table-group-background: #2c5640 !important;
+  --bases-table-header-background: #35674d !important;
+  --bases-table-header-color: #f2f2f2 !important;
+  --bases-table-summary-background: #35674d !important;
+  --blockquote-border-color: #ffbf00 !important;
+  --canvas-background: #35674d !important;
+  --canvas-card-label-color: #c5c5c5 !important;
+  --caret-color: #f2f2f2 !important;
+  --checkbox-border-color: #c5c5c5 !important;
+  --checkbox-border-color-hover: #f2f2f2 !important;
+  --checkbox-color: #ffbf00 !important;
+  --checkbox-color-hover: #d0a011 !important;
+  --checkbox-marker-color: #35674d !important;
+  --checklist-done-color: #f2f2f2 !important;
+  --code-background: #2c5640 !important;
+  --code-border-color: rgba(0, 0, 0, 0.25) !important;
+  --code-comment: #c5c5c5 !important;
+  --code-normal: #f2f2f2 !important;
+  --code-punctuation: #f2f2f2 !important;
+  --collapse-icon-color: #c5c5c5 !important;
+  --collapse-icon-color-collapsed: #f2f2f2 !important;
+  --dark: #f2f2f2 !important;
+  --darkgray: #f2f2f2 !important;
+  --divider-color: rgba(0, 0, 0, 0.25) !important;
+  --divider-color-hover: #ffbf00 !important;
+  --embed-block-shadow-hover: 0 0 0 1px rgba(0, 0, 0, 0.25), inset 0 0 0 1px rgba(0, 0, 0, 0.25) !important;
+  --embed-border-start: 2px solid #ffbf00 !important;
+  --file-header-background: #35674d !important;
+  --file-header-background-focused: #35674d !important;
+  --flair-color: #f2f2f2 !important;
+  --footnote-divider-color: rgba(0, 0, 0, 0.25) !important;
+  --footnote-id-color: #f2f2f2 !important;
+  --footnote-id-color-no-occurrences: #c5c5c5 !important;
+  --graph-node: #f2f2f2 !important;
+  --graph-node-focused: #f2f2f2 !important;
+  --graph-node-unresolved: #c5c5c5 !important;
+  --graph-text: #f2f2f2 !important;
+  --gray: #f2f2f2 !important;
+  --heading-formatting: #c5c5c5 !important;
+  --highlight: #b5aa29 !important;
+  --hr-color: rgba(0, 0, 0, 0.25) !important;
+  --icon-color: #f2f2f2 !important;
+  --icon-color-active: #f2f2f2 !important;
+  --icon-color-focused: #f2f2f2 !important;
+  --icon-color-hover: #f2f2f2 !important;
+  --input-date-separator: #c5c5c5 !important;
+  --input-placeholder-color: #c5c5c5 !important;
+  --interactive-accent: #ffbf00 !important;
+  --interactive-accent-hover: #d0a011 !important;
+  --interactive-accent-rgb: 255, 191, 0 !important;
+  --light: #35674d !important;
+  --lightgray: #a23227 !important;
+  --link-color: #f2f2f2 !important;
+  --link-color-hover: #ffffff !important;
+  --link-external-color: #f2f2f2 !important;
+  --link-external-color-hover: #ffffff !important;
+  --link-unresolved-color: #f2f2f2 !important;
+  --list-marker-color: #c5c5c5 !important;
+  --list-marker-color-collapsed: #f2f2f2 !important;
+  --list-marker-color-hover: #f2f2f2 !important;
+  --menu-background: #a23227 !important;
+  --metadata-border-color: rgba(0, 0, 0, 0.25) !important;
+  --metadata-divider-color: rgba(0, 0, 0, 0.25) !important;
+  --metadata-input-text-color: #f2f2f2 !important;
+  --metadata-label-text-color: #f2f2f2 !important;
+  --metadata-label-text-color-hover: #f2f2f2 !important;
+  --modal-background: #35674d !important;
+  --nav-collapse-icon-color: #c5c5c5 !important;
+  --nav-collapse-icon-color-collapsed: #c5c5c5 !important;
+  --nav-heading-color: #f2f2f2 !important;
+  --nav-heading-color-collapsed: #c5c5c5 !important;
+  --nav-heading-color-collapsed-hover: #f2f2f2 !important;
+  --nav-heading-color-hover: #f2f2f2 !important;
+  --nav-item-color: #f2f2f2 !important;
+  --nav-item-color-active: #f2f2f2 !important;
+  --nav-item-color-highlighted: #f2f2f2 !important;
+  --nav-item-color-hover: #f2f2f2 !important;
+  --nav-item-color-selected: #f2f2f2 !important;
+  --nav-tag-color: #c5c5c5 !important;
+  --nav-tag-color-active: #f2f2f2 !important;
+  --nav-tag-color-hover: #f2f2f2 !important;
+  --pdf-background: #35674d !important;
+  --pdf-page-background: #35674d !important;
+  --pdf-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25) !important;
+  --pdf-sidebar-background: #35674d !important;
+  --pdf-thumbnail-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25) !important;
+  --pill-border-color: rgba(0, 0, 0, 0.25) !important;
+  --pill-color: #f2f2f2 !important;
+  --pill-color-hover: #f2f2f2 !important;
+  --pill-color-remove: #c5c5c5 !important;
+  --pill-color-remove-hover: #f2f2f2 !important;
+  --prompt-background: #35674d !important;
+  --ribbon-background: #a23227 !important;
+  --ribbon-background-collapsed: #35674d !important;
+  --search-clear-button-color: #f2f2f2 !important;
+  --search-icon-color: #f2f2f2 !important;
+  --search-result-background: #35674d !important;
+  --secondary: #f2f2f2 !important;
+  --setting-group-heading-color: #f2f2f2 !important;
+  --setting-items-background: #2c5640 !important;
+  --setting-items-border-color: rgba(0, 0, 0, 0.25) !important;
+  --slider-track-background: rgba(0, 0, 0, 0.25) !important;
+  --status-bar-background: #a23227 !important;
+  --status-bar-border-color: rgba(0, 0, 0, 0.25) !important;
+  --status-bar-text-color: #f2f2f2 !important;
+  --suggestion-background: #35674d !important;
+  --tab-background-active: #35674d !important;
+  --tab-container-background: #a23227 !important;
+  --tab-outline-color: rgba(0, 0, 0, 0.25) !important;
+  --tab-switcher-background: #a23227 !important;
+  --tab-switcher-menubar-background: linear-gradient(to top, #a23227, transparent) !important;
+  --tab-text-color: #c5c5c5 !important;
+  --tab-text-color-active: #f2f2f2 !important;
+  --tab-text-color-focused: #f2f2f2 !important;
+  --tab-text-color-focused-active: #f2f2f2 !important;
+  --tab-text-color-focused-active-current: #f2f2f2 !important;
+  --tab-text-color-focused-highlighted: #f2f2f2 !important;
+  --table-add-button-border-color: rgba(0, 0, 0, 0.25) !important;
+  --table-border-color: rgba(0, 0, 0, 0.25) !important;
+  --table-drag-handle-background-active: #ffbf00 !important;
+  --table-drag-handle-color: #c5c5c5 !important;
+  --table-drag-handle-color-active: #000000 !important;
+  --table-header-border-color: rgba(0, 0, 0, 0.25) !important;
+  --table-header-color: #f2f2f2 !important;
+  --table-selection-border-color: #ffbf00 !important;
+  --tag-color: #f2f2f2 !important;
+  --tag-color-hover: #f2f2f2 !important;
+  --tertiary: #ffffff !important;
+  --text-accent: #f2f2f2 !important;
+  --text-accent-hover: #ffffff !important;
+  --text-faint: #c5c5c5 !important;
+  --text-highlight-bg: #b5aa29 !important;
+  --text-muted: #f2f2f2 !important;
+  --text-normal: #f2f2f2 !important;
+  --text-on-accent: #000000 !important;
+  --text-selection: rgba(44, 86, 64, 0.99) !important;
+  --textHighlight: #b5aa29 !important;
+  --titlebar-background: #a23227 !important;
+  --titlebar-background-focused: #952e24 !important;
+  --titlebar-border-color: rgba(0, 0, 0, 0.25) !important;
+  --titlebar-text-color: #f2f2f2 !important;
+  --titlebar-text-color-focused: #f2f2f2 !important;
+  --vault-profile-color: #f2f2f2 !important;
+  --vault-profile-color-hover: #f2f2f2 !important;
+  --quartz-icon-color: currentColor !important;
+}
+
+html body {
+  background-color: var(--background-primary) !important;
+  color: var(--text-normal) !important;
+}
+
+html body[data-slug] div#quartz-root.page, html .page > div#quartz-body div.sidebar.left, html .page > div#quartz-body div.sidebar.left:has(.explorer), html .page > div#quartz-body div.sidebar.left .explorer .explorer-content {
+  background-color: rgb(162, 50, 39);
+  color: rgb(242, 242, 242);
+}
+
+html body[data-slug], html body[data-slug] .page > div#quartz-body, html .page > div#quartz-body div.center, html .page > div#quartz-body footer {
+  background-color: rgb(53, 103, 77);
+  color: rgb(242, 242, 242);
+}
+
+html body .page > div#quartz-body div.sidebar {
+  background-color: rgb(162, 50, 39);
+  color: rgb(242, 242, 242);
+}
+
+html body .page > div#quartz-body div.sidebar.left {
+  border-right-color: rgba(0, 0, 0, 0.25);
+}
+
+html body .page > div#quartz-body div.sidebar.right {
+  background-color: rgb(162, 50, 39);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  color: rgb(242, 242, 242);
+}
+
+html body div#quartz-root {
+  background-color: rgb(53, 103, 77);
+  color: rgb(242, 242, 242);
+}`,
+    typography: `html body .page article p > b, html b {
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body .page article p > em, html em {
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body .page article p > i, html i {
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body .page article p > strong, html strong {
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body .text-highlight {
+  background-color: rgb(181, 170, 41);
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body del {
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body p {
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+  text-decoration-color: rgb(242, 242, 242);
+}`,
+    links: `html body a.external, html footer a {
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body a.internal, html .breadcrumb-container .breadcrumb-element > a {
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body a.internal.broken {
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+}`,
+    lists: `html body dd {
+  color: rgb(242, 242, 242);
+}
+
+html body dt {
+  color: rgb(242, 242, 242);
+}
+
+html body ol > li {
+  color: rgb(242, 242, 242);
+}
+
+html body ol.overflow {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body ul > li {
+  color: rgb(242, 242, 242);
+}
+
+html body ul.overflow {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}`,
+    blockquotes: `html body .data-footnote-backref {
+  color: rgb(197, 197, 197);
+}`,
+    tables: `html body .table-container {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body table {
+  color: rgb(242, 242, 242);
+}
+
+html body td {
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  border-right-color: rgba(0, 0, 0, 0.25);
+  border-top-color: rgba(0, 0, 0, 0.25);
+  color: rgb(242, 242, 242);
+}
+
+html body th {
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  border-right-color: rgba(0, 0, 0, 0.25);
+  border-top-color: rgba(0, 0, 0, 0.25);
+  color: rgb(242, 242, 242);
+}`,
+    code: `html body code {
+  border-bottom-color: rgb(255, 64, 115);
+  border-left-color: rgb(255, 64, 115);
+  border-right-color: rgb(255, 64, 115);
+  border-top-color: rgb(255, 64, 115);
+  color: rgb(255, 64, 115);
+}
+
+html body figure[data-rehype-pretty-code-figure] {
+  background-color: rgb(44, 86, 64);
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  border-right-color: rgba(0, 0, 0, 0.25);
+  border-top-color: rgba(0, 0, 0, 0.25);
+}
+
+html body figure[data-rehype-pretty-code-figure] > [data-rehype-pretty-code-title] {
+  background-color: rgb(44, 86, 64);
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  border-right-color: rgba(0, 0, 0, 0.25);
+  border-top-color: rgba(0, 0, 0, 0.25);
+  color: rgb(242, 242, 242);
+}
+
+html body pre > code, html pre:has(> code) {
+  background-color: rgb(44, 86, 64);
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  border-right-color: rgba(0, 0, 0, 0.25);
+  border-top-color: rgba(0, 0, 0, 0.25);
+}
+
+html body pre:has(> code) {
+  background-color: rgb(44, 86, 64);
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  border-right-color: rgba(0, 0, 0, 0.25);
+  border-top-color: rgba(0, 0, 0, 0.25);
+}`,
+    images: `html body audio {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body figcaption {
+  color: rgb(242, 242, 242);
+}
+
+html body figure {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body img {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body video {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}`,
+    embeds: `html body .file-embed {
+  background-color: rgb(44, 86, 64);
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body .footnotes {
+  border-top-color: rgb(242, 242, 242);
+  color: rgb(242, 242, 242);
+}
+
+html body .transclude {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(255, 191, 0);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body .transclude-inner {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(255, 191, 0);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}`,
+    checkboxes: `html body .page article li:has(>input[type=checkbox]:checked) {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body input[type=checkbox] {
+  border-bottom-color: rgb(197, 197, 197);
+  border-left-color: rgb(197, 197, 197);
+  border-right-color: rgb(197, 197, 197);
+  border-top-color: rgb(197, 197, 197);
+}
+
+html body li.task-list-item[data-task='!'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='*'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='-'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='/'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='>'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='?'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='I'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='S'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='b'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='c'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='d'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='f'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='i'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='k'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='l'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='p'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='u'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task='w'] {
+  color: rgb(242, 242, 242);
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body li.task-list-item[data-task="_"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="-"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task=","] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task=";"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task=":"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="!"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="?"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="."] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="'"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task=""] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="@"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="*"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="/"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="&"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="#"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="%"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="\`"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="+"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="<"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="="] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task=">"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="|"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="~"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="$"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="0"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="1"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="2"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="3"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="4"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="5"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="6"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="7"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="8"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="9"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="a"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="A"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="b"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="B"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="c"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="C"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="d"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="D"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="e"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="E"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="f"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="F"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="g"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="G"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="h"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="H"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="i"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="I"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="j"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="J"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="k"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="K"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="l"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="L"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="m"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="M"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="n"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="N"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="o"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="O"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="p"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="P"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="q"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="Q"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="r"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="R"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="s"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="S"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="t"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="T"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="u"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="U"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="v"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="V"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="w"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="W"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="x"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="X"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="y"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="Y"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="z"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}
+
+html body li.task-list-item[data-task="Z"] input[type="checkbox"]::after {
+  background-color: rgb(53, 103, 77);
+}`,
+    search: `html body .search > .search-button {
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  border-right-color: rgba(0, 0, 0, 0.25);
+  border-top-color: rgba(0, 0, 0, 0.25);
+  color: rgb(242, 242, 242);
+}
+
+html body .search > .search-container > .search-space {
+  background-color: rgb(53, 103, 77);
+}
+
+html body .search > .search-container > .search-space > * {
+  color: rgb(242, 242, 242);
+  outline: rgb(242, 242, 242) none 0px;
+  text-decoration-color: rgb(242, 242, 242);
+}
+
+html body .search > .search-container > .search-space > .search-layout > .results-container {
+  color: rgb(242, 242, 242);
+}
+
+html body .search > .search-container > .search-space > .search-layout > .results-container .result-card {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body .search > .search-container > .search-space > .search-layout > .results-container > .result-card:hover .card-title, html .search > .search-container > .search-space > .search-layout > .results-container > .result-card:hover .card-description, html .search > .search-container > .search-space > .search-layout > .results-container > .result-card:focus .card-title, html .search > .search-container > .search-space > .search-layout > .results-container > .result-card:focus .card-description, html .search > .search-container > .search-space > .search-layout > .results-container > .result-card.focus:not(:has(~ .result-card:hover, html ~ .result-card:focus)) .card-title, html .search > .search-container > .search-space > .search-layout > .results-container > .result-card.focus:not(:has(~ .result-card:hover, html ~ .result-card:focus)) .card-description {
+  color: rgb(242, 242, 242);
+}
+
+html body .search > .search-container > .search-space > .search-layout > .results-container > .result-card:hover, html .search > .search-container > .search-space > .search-layout > .results-container > .result-card:focus, html .search > .search-container > .search-space > .search-layout > .results-container > .result-card.focus:not(:has(~ .result-card:hover, html ~ .result-card:focus)) {
+  color: rgb(242, 242, 242);
+}
+
+html body .search > .search-container > .search-space > input {
+  border-bottom-color: rgb(162, 50, 39);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body .search>.search-container>.search-space>.search-layout>.results-container .result-card:has(~ .result-card.focus:not(:has(~ .result-card:hover, html ~ .result-card:focus)), html ~ .result-card:focus, html ~ .result-card:hover) {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+  color: rgb(242, 242, 242);
+}
+
+html body .search>.search-container>.search-space>.search-layout>.results-container .result-card:hover, html .search>.search-container>.search-space>.search-layout>.results-container .result-card:focus, html .search>.search-container>.search-space>.search-layout>.results-container .result-card.focus:not(:has(~ .result-card:hover, html ~ .result-card:focus)) {
+  color: rgb(242, 242, 242);
+}
+
+html body a.internal.tag-link::before {
+  color: rgb(242, 242, 242);
+}
+
+html body h1 {
+  color: rgb(242, 242, 242);
+}
+
+html body h2 {
+  color: rgb(242, 242, 242);
+}
+
+html body h2.page-title, html h2.page-title a {
+  color: rgb(242, 242, 242);
+}
+
+html body h3 {
+  color: rgb(242, 242, 242);
+}
+
+html body h4 {
+  color: rgb(242, 242, 242);
+}
+
+html body h5 {
+  color: rgb(242, 242, 242);
+}
+
+html body h6 {
+  color: rgb(242, 242, 242);
+}
+
+html body hr {
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  border-right-color: rgba(0, 0, 0, 0.25);
+}`,
+    scrollbars: `html body ::-webkit-scrollbar {
+  background: rgb(53, 103, 77) none repeat scroll 0% 0% / auto padding-box border-box;
+  background-color: rgb(53, 103, 77);
+}
+
+html body ::-webkit-scrollbar-corner {
+  background: rgb(53, 103, 77) none repeat scroll 0% 0% / auto padding-box border-box;
+  background-color: rgb(53, 103, 77);
+}
+
+html body ::-webkit-scrollbar-thumb {
+  background: rgb(53, 103, 77) none repeat scroll 0% 0% / auto padding-box border-box;
+  background-color: rgb(53, 103, 77);
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body ::-webkit-scrollbar-thumb:active {
+  background: rgb(53, 103, 77) none repeat scroll 0% 0% / auto padding-box border-box;
+  background-color: rgb(53, 103, 77);
+}
+
+html body ::-webkit-scrollbar-thumb:hover {
+  background: rgb(53, 103, 77) none repeat scroll 0% 0% / auto padding-box border-box;
+  background-color: rgb(53, 103, 77);
+}
+
+html body ::-webkit-scrollbar-track {
+  background: rgb(53, 103, 77) none repeat scroll 0% 0% / auto padding-box border-box;
+  background-color: rgb(53, 103, 77);
+}`,
+    explorer: `html body .explorer .explorer-content li:has(> .folder-outer.open) > .folder-container {
+  color: rgb(242, 242, 242);
+}
+
+html body .explorer .explorer-content li:has(> .folder-outer:not(.open)) > .folder-container {
+  color: rgb(242, 242, 242);
+}`,
+    graph: `html body .graph > .graph-outer > .global-graph-icon {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+  color: rgb(242, 242, 242);
+}`,
+    footer: `html body footer {
+  background-color: rgb(162, 50, 39);
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  border-right-color: rgba(0, 0, 0, 0.25);
+  border-top-color: rgba(0, 0, 0, 0.25);
+  color: rgb(242, 242, 242);
+}
+
+html body footer ul li a {
+  color: rgb(242, 242, 242);
+}`,
+    recentNotes: `html body .recent-notes > h3 {
+  color: rgb(242, 242, 242);
+}
+
+html body .recent-notes > ul.recent-ul > li {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+  color: rgb(242, 242, 242);
+}
+
+html body .recent-notes > ul.recent-ul > li .section > .desc > h3 > a {
+  color: rgb(242, 242, 242);
+}
+
+html body .recent-notes > ul.recent-ul > li .section > .meta {
+  color: rgb(242, 242, 242);
+}`,
+    listPage: `html body li.section-li {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body li.section-li > .section .meta {
+  color: rgb(242, 242, 242);
+}
+
+html body li.section-li > .section > .desc > h3 > a {
+  color: rgb(242, 242, 242);
+}
+
+html body ul.section-ul {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}`,
+    darkmode: `html body .darkmode {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+  color: rgb(242, 242, 242);
+}
+
+html body .darkmode svg {
+  color: rgb(242, 242, 242);
+  stroke: rgb(242, 242, 242);
+}`,
+    breadcrumbs: `html body .breadcrumb-container {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+  color: rgb(242, 242, 242);
+}
+
+html body .breadcrumb-element p {
+  color: rgb(197, 197, 197);
+}`,
+    misc: `html body .katex-display {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+  color: rgb(242, 242, 242);
+}
+
+html body .metadata {
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  border-left-color: rgba(0, 0, 0, 0.25);
+  border-right-color: rgba(0, 0, 0, 0.25);
+  border-top-color: rgba(0, 0, 0, 0.25);
+  color: rgb(242, 242, 242);
+}
+
+html body .metadata-properties {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+  color: rgb(242, 242, 242);
+}
+
+html body .navigation-progress {
+  background-color: rgb(162, 50, 39);
+}
+
+html body .page-header h2.page-title {
+  color: rgb(242, 242, 242);
+}
+
+html body abbr {
+  color: rgb(242, 242, 242);
+}
+
+html body details {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body input[type=text] {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+  color: rgb(242, 242, 242);
+}
+
+html body kbd {
+  background-color: rgb(44, 86, 64);
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+  color: rgb(242, 242, 242);
+}
+
+html body progress {
+  border-bottom-color: rgb(242, 242, 242);
+  border-left-color: rgb(242, 242, 242);
+  border-right-color: rgb(242, 242, 242);
+  border-top-color: rgb(242, 242, 242);
+}
+
+html body sub {
+  color: rgb(242, 242, 242);
+}
+
+html body summary {
+  color: rgb(242, 242, 242);
+}
+
+html body sup {
+  color: rgb(242, 242, 242);
+}`,
+  },
+  light: {},
+  extras: `/* Falling snow */
+body:before,
+body:after,
+html:before,
+html:after {
+  content: "";
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-image: url("https://freepngimg.com/download/winter_snow/6-2-clear-snow-png.png");
+  opacity: 0.5;
+  animation: MOVE-BG 500s linear infinite;
+  z-index: 100;
+  pointer-events: none;
+}
+body:after {
+  top: -3000%;
+}
+body:before {
+  top: -2500%;
+  filter: blur(1px);
+  background-size: 75%;
+}
+html:after {
+  filter: blur(2px);
+  top: -2000%;
+  background-size: 50%;
+}
+
+html:before {
+  filter: blur(3px);
+  top: -1500%;
+  background-size: 25%;
+}
+
+@keyframes MOVE-BG {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(100%);
+  }
+}
+/* end falling snow */
+`,
+};
