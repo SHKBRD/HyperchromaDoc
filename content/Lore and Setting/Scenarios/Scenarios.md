@@ -1,11 +1,12 @@
 ---
 title: Scenarios
 ---
-All Scenarios involving the Chromatics universe occur after the [[Canon Point]], and are not considered "Canon" in terms of any established story. Scenarios may take place any time after the Canon Point, and generally follow along a story that includes a select group of [characters](#Character). This choice is made from the fact that I am very indecisive when it comes to creating a long term defined plot and story, especially with a cast of characters that are all supposed to kill each other. "When do I kill off this character?" and "Do I have to focus on this character right now?" are both questions that I don't need to answer, and I can write pretty much anything that lines up with what the characters in the story would do! 
+All Scenarios involving the Chromatics universe occur after the [[Starting Point]], and are not considered "Canon" in terms of any established story. Scenarios may take place any time after the Canon Point, and generally follow along a story that includes a select group of [characters](#Character). This choice is made from the fact that I am very indecisive when it comes to creating a long term defined plot and story, especially with a cast of characters that are all supposed to kill each other. "When do I kill off this character?" and "Do I have to focus on this character right now?" are both questions that I don't need to answer, and I can write pretty much anything that lines up with what the characters in the story would do! 
 
-This also allows for other people to come up with their own Scenarios pretty freely, because no Scenarios are necessarily "Canon" anyway. The only "canon" restrictions that I follow are defined with [[Past Events|the events that happen before the Canon Point]]. Anyone can make up their own scenarios, and those scenarios will very likely be just as canon as mine.
+This also allows for other people to come up with their own Scenarios pretty freely, because no Scenarios are necessarily "Canon" anyway. The only "canon" restrictions that I follow are defined with [[Past Events|the events that happen before the Starting Point]]. Anyone can make up their own scenarios, and those scenarios will very likely be just as canon as mine.
 
 # List of Scenarios:
 
 - [[A Duel Through Thin Air]]
 - [[Silver Path]]
+- [[Dusk Dev Hangout Day Comic]]

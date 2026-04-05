@@ -1,0 +1,1 @@
+Many characters have defined backstories detailing events that happen before [[Starting Point]].

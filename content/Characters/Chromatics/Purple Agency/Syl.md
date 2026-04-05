@@ -10,7 +10,7 @@ In-progress 2D Reference.
 
 Syl is a [[Class]] 6 [[Chromatics|Chromatic]] that is also a Chromatic Mentor. She wields two sickles.
 
-She mentors [[Seth]] as of the [[Canon Point]].
+She mentors [[Seth]] as of the [[Starting Point]].
 
 # Featured Scenarios
 

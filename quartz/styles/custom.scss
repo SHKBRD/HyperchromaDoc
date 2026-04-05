@@ -1,3 +1,45 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.canvas-node-content {
+  padding: 12px;
+  font-size: 1.65rem;
+  line-height: 1.5;
+  color: var(--darkgray);
+  word-wrap: break-word;
+  overflow-y: auto;
+  flex: 1;
+  min-height: 0;
+
+  p {
+    margin:0%;
+  }
+}
+
+.canvas-node-group {
+  background: color-mix(in srgb, var(--canvas-node-color), transparent 87.5%);
+  border-style: dashed;
+  border-color: var(--canvas-node-color, var(--gray));
+  border-radius: 12px;
+  overflow: visible;
+
+  .canvas-group-label {
+    position: absolute;
+    top: -10px;
+    left: 16px;
+    padding: 0 8px;
+    background: var(--light);
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--canvas-node-color, var(--darkgray));
+  }
+}
+
+.canvas-edges {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -4;
+  pointer-events: none;
+  overflow: visible;
+}

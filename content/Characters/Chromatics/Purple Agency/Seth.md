@@ -7,4 +7,4 @@ tags:
 ---
 Seth is a [[Class]] 3 [[Chromatics|Chromatic]].
 
-Is training with [[Syl]] as of the [[Canon Point]].
+Is training with [[Syl]] as of the [[Starting Point]].
