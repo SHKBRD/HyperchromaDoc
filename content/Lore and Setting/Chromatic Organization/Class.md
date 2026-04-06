@@ -4,7 +4,7 @@ Every [[Chromatics|Chromatic]] is ranked amongst other Chromatics via their Clas
 
 A Chromatic's current Class is indicated via their [[Rank Badge]].
 
-credits are only rewarded if a Chromatic, using their own weapon, successfully lands the last lethal wound upon an opposing Chromatic. This must be done using the Chromatic's assigned weapon, since the blood of the opposing Chromatic will be [[Mesh Metal|stored in their blade]], which is then later used to credit the Chromatic if they [[Weapon Rinsing|rinse their weapon]]. If that Chromatic was the last person to land a lethal wound upon the opposing Chromatic, and the opposing Chromatic is dead by the time the weapon is rinsed, the surviving Chromatic is then awarded credits.
+Credits are only rewarded if a Chromatic, using their own weapon, successfully lands the last lethal wound upon an opposing Chromatic. This must be done using the Chromatic's assigned weapon, since the blood of the opposing Chromatic will be [[Mesh Metal|stored in their blade]], which is then later used to credit the Chromatic if they [[Weapon Rinsing|rinse their weapon]]. If that Chromatic was the last person to land a lethal wound upon the opposing Chromatic, and the opposing Chromatic is dead by the time the weapon is rinsed, the surviving Chromatic is then awarded credits.
 
 It should be noted that until a Chromatic's weapon is rinsed, a Chromatic's Class will remain the same even if they earn enough credits to qualify for a Class promotion.
 

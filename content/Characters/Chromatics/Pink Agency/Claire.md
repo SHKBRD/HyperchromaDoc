@@ -32,7 +32,7 @@ Claire's backstory hasn't been established yet.
 Claire knows about Cole through looking at the list of Chromatics seeking a [[Chromatic Mentorships|training mentorship]]. She holds a sliver of hope for him due to his past experience fighting as a [[Mercenaries|mercenary]].
 
 ## [[Claire's Friend Circle]]
-Claire keeps a group of close friends that are similar to her skill level, and she frequently [[Practice Duels|practices fighting]] with them. While they all initially started their relationships on good terms, Claire's increasingly abrasive behavior
+Claire keeps a group of close friends that are similar to her skill level, and she frequently [[Practice Duels|practices fighting]] with them. While they all initially started their relationships on good terms, Claire's increasingly abrasive behavior begins to alienate her from the group.
 
 # Featured Scenarios
 

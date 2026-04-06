@@ -1,6 +1,6 @@
 Blood encoding is the process of adding computer readable data to the blood cells of a [[Chromatics|Chromatic]].
 
-The main purpose of blood encoding is to provide a way to add unique identification data to a Chromatic that does not involve reading a Chromatic's DNA. This is then used in tandem with [[Mesh Metal|mesh metal]] blades, which stores liquids that come in contact with its surface. 
+The main purpose of blood encoding is to add unique identification data to a Chromatic that does not involve reading a Chromatic's DNA. This is used in tandem with [[Mesh Metal|mesh metal]] blades, which stores liquids that come in contact with its surface. 
 
 For example, If a Chromatic wounds and kills an opposing Chromatic with a blade that uses mesh metal, the opposing Chromatic's blood can then be taken to a [[Weapon Rinsing|weapon rinsing site]] to read its encoded data and reward the winning Chromatic depending on the Class rank stored in the encoded blood.
 

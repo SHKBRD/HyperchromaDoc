@@ -22,11 +22,11 @@ tags:
 
 Cyn is a [[Class]] 5 [[Chromatics|Chromatic]].
 
-Is teamed up with [[Dev]], [[Jay]] and [[Dusk]], though most of her missions involve working with Jay and Dusk.
+She usually takes on missions with [[Jay]] and [[Dusk]], though [[Dev]] is also occasionally assigned to work alongside her.
 
 # Personality
 
-Cyn is outgoing, and hold close interactions with the people around her, whether she views them positively or negatively. She is open to accepting promises or favors from other people, but she is also easily swayed into breaking those promises if she is able to follow a more favorable outcome for herself, or if persuaded into doing anything else. She also frequently engages in starting/continuing gossip or drama about the people she holds close relationships with. 
+Cyn is outgoing, and holds close interactions with the people she knows, whether she views them positively or negatively. She is open to accepting personal promises or favors from others, but she is easily persuaded into breaking such promises if it benefits herself or someone close to herself. She also frequently gossips about the people she holds close relationships with. 
 
 # Character Backstory
 
@@ -35,11 +35,11 @@ Cyn originally worked in a law firm as a defense attorney. The reason why she be
 # Character Relationships
 ## [[Dev]]
 
-Cyn's boyfriend and occasional teammate. This is the first romantic relationship where Cyn holds a strong sense of emotional connection with her partner, as opposed to her previous infatuous relationships.
+Cyn's boyfriend and occasional teammate. This is the first romantic relationship where Cyn holds a very strong sense of emotional connection with her partner, in contrast with many of her previous, more materialistic romantic relationships.
 
 ## [[Dusk]]
 
-Cyn's teammate. Occasionally hangs out with him, and considers him to be a good teammate and a chill person.
+Cyn's teammate. Occasionally hangs out with him, and considers him to be a good teammate.
 
 ## [[Jay]]
 
@@ -47,7 +47,7 @@ Cyn's teammate. She is fairly playful towards him outside of missions, and often
 
 ## [[Raine]]
 
-Cyn's former law firm co-worker. After Raine blackmails Cyn during their time at their law firm, their relationship turns sour, and their relationship gains a mutual hatred when they find out that they are both Chromatics. Cyn often tries to resolve her arguments with Raine by fighting in [[Practice Duels|practice duels]], though Raine often ends up beating Cyn in many of their fights.
+Cyn's former law firm co-worker, and currently a rival within the blue Agency. The two have always had a combative rivalry as lawyers, but after Raine blackmails Cyn during their time at their law firm, they begin to avoid each other to prevent further drama from leaking around their workplace. Once they meet as Chromatics, their rivalry is rekindled as they compete to outrank the other. Cyn often tries to resolve her arguments with Raine by fighting in [[Practice Duels|practice duels]], though Raine often ends up beating Cyn in many of their fights.
 
 # Featured Scenarios
 

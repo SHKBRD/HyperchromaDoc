@@ -32,7 +32,7 @@ Her backstory hasn't been formed yet.
 
 # Character Relationships
 ## [[Eve]]
-Dawn's identical twin sister. They typically perform/partake in many activities together, simultaneously. This typically includes missions, recreational activities, hangouts, though they can be found separated when interacting with characters that have differing perceptions of the twins.
+Dawn's identical twin sister. They typically partake in many activities together simultaneously. This typically includes missions, recreational activities, hangouts, though they can be found separated when interacting with characters that have differing perceptions of the twins.
 
 Dawn usually has to convince Eve to do some of Dawn's more impulsive ideas, teasing her on until Eve either refuses or begrudgingly follows along. Dawn also actively tries to get Eve to be more outgoing and optimistic, though Eve has never seemed to consider any of Dawn's attempts to get Eve to socialize.
 

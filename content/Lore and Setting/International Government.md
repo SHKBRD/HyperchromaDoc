@@ -1,6 +1,6 @@
-The International Government is primarily a pact between most of the world's individual governments to help ensure aid, safety and basic resources for all humans are provided. This includes running the [[International School]].
+The International Government is a pact between most of the world's individual governments to help ensure aid, safety and basic resources for all humans are provided. This includes running the [[International School]].
 
-Once they found out about the [[Lead Researcher]] and his plans with the [[Chromatic Organization]] they signed a secrecy agreement for the organization in return for various agreements.
+Once they found out about the [[Lead Researcher]] and his plans with the [[Chromatic Organization]], they signed a secrecy agreement for the organization in return for various agreements.
 
 - The Chromatics don't kill/harm government employees/members/buildings/proceedings
 - Nobody without morally questionable large scale intentions/actions (pretty much all Civilians) should be harmed
