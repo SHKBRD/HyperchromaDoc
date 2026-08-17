@@ -5,13 +5,14 @@ tags:
   - Chromatic
   - Blue
 ---
+
 ![[CynRef.png|500]]
 
-*This image is a rough sketch for what a future model of the design might look like.*
+_This image is a rough sketch for what a future model of the design might look like._
 
 # Chromatic Info:
 
-| Name:                  | Cyn *(from Cynthia)* |
+| Name:                  | Cyn _(from Cynthia)_ |
 | ---------------------- | -------------------- |
 | Age:                   | 26                   |
 | Agency:                | Blue                 |
@@ -24,13 +25,14 @@ She usually takes on missions with [[Jay]] and [[Dusk]], though [[Dev]] is also 
 
 # Personality
 
-Cyn is outgoing, and holds close interactions with the people she knows, whether she views them positively or negatively. She is open to accepting personal promises or favors from others, but she is easily persuaded into breaking such promises if it benefits herself or someone close to herself. She also frequently gossips about the people she holds close relationships with. 
+Cyn is outgoing, and holds close interactions with the people she knows, whether she views them positively or negatively. She is open to accepting personal promises or favors from others, but she is easily persuaded into breaking such promises if it benefits herself or someone close to herself. She also frequently gossips about the people she holds close relationships with.
 
 # Character Backstory
 
 Cyn originally worked in a law firm as a defense attorney. The reason why she became a Chromatic hasn't been determined yet.
 
 # Character Relationships
+
 ## [[Dev]]
 
 Cyn's boyfriend and occasional teammate. This is the first romantic relationship where Cyn holds a very strong sense of emotional connection with her partner, in contrast with many of her previous, more materialistic romantic relationships.

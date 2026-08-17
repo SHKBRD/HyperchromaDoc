@@ -5,6 +5,7 @@ tags:
   - Character
   - Red
 ---
+
 Jess is a [[Class]] 3 [[Chromatics|Chromatic]]. She wields two short blades.
 
 Occasionally is sent on missions with the [[Card Chromatics]].

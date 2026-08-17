@@ -5,13 +5,14 @@ tags:
   - Chromatic
   - Orange
 ---
+
 ![[KadeRef.png|500]]
 
-*This image is a rough sketch for what a future model of the design might look like.*
+_This image is a rough sketch for what a future model of the design might look like._
 
 # Chromatic Info:
 
-| Name:                  | Kade *(from Keiji)* |
+| Name:                  | Kade _(from Keiji)_ |
 | ---------------------- | ------------------- |
 | Age:                   | 26                  |
 | Agency:                | Orange              |
@@ -33,12 +34,11 @@ He also has a goal of romantically attracting as many people as he can, which re
 Kade had trouble keeping his financial responsibility through his adulthood, and had turned to taking loans and odd jobs connected to the criminal world in order to keep himself afloat. Once the time to pay back the loans had run dry, and with no way to reliably pay off the loans, Kade began to take even more action in the criminal world, eventually considering the opportunity to become an assassin. With the mounting debt and responsibilities in his life, Kade decided to become a Chromatic to let go of his previous life in order to start fresh.
 
 # Character Relationships
+
 ## [[Dawn]]
-One of Kade's girlfriends. His relationship with Dawn is one of Kade's favorites, and Kade typically hangs out with Dawn soon after either of them arrive back to their station. 
+
+One of Kade's girlfriends. His relationship with Dawn is one of Kade's favorites, and Kade typically hangs out with Dawn soon after either of them arrive back to their station.
 
 ## [[Eve]]
+
 Kade knows Eve through his relationship with [[Dawn]]. He usually avoids directly interacting with Eve, partly to avoid mentioning his relationship with Dawn, alongside worrying that any interaction with Eve may come off as unintentional flirting.
-
-
-
-

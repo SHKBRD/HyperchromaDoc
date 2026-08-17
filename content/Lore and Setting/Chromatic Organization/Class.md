@@ -20,7 +20,7 @@ For example:
 
 A Class 1 kills a Class 2, which earns them 2 credits. After fulfilling the 1 credit requirement to rank up to Class 2, the Chromatic is credited the remaining 1 credit to count towards the new credit requirement. As a result of the initial kill, the Class 1 Chromatic with 0 credits is now a Class 2 Chromatic with 1 credit.
 
-To prevent overwhelming Class rank promotions via higher Class differences, the highest Class that a Chromatic can attain is the Class rank of the highest Class opponent that the Chromatic has ever killed, plus one. 
+To prevent overwhelming Class rank promotions via higher Class differences, the highest Class that a Chromatic can attain is the Class rank of the highest Class opponent that the Chromatic has ever killed, plus one.
 
 For example, if a Class 1 Chromatic somehow kills three Class 4 Chromatics back to back, and earns 24 credits as a result, that Chromatic cannot rank up past Class 5. After rinsing their weapon, they would be a Class 5 Chromatic with 9 (24-5-4-3-2-1) credits. Any remaining credits will not go towards a promotion until they kill a Chromatic with a Class rank that is at least as high as their own.
 
@@ -34,30 +34,30 @@ The formula for the earned credits is as follows:
 
 Co -> Opposing Chromatic's Class
 Cs -> Surviving Chromatic's Class
+
 # $2_{}^{\left(C_{o}-C_{s}\right)}$
 
 | Class Difference upon Kill | Base credits Awarded |
-| :------------------------: | :------------------------: |
-|             -9             |        0.001953125         |
-|             -8             |         0.00390625         |
-|             -7             |         0.0078125          |
-|             -6             |          0.015625          |
-|             -5             |          0.03125           |
-|             -4             |           0.0625           |
-|             -3             |           0.125            |
-|             -2             |            0.25            |
-|             -1             |            0.5             |
-|             0              |             1              |
-|             1              |             2              |
-|             2              |             4              |
-|             3              |             8              |
-|             4              |             16             |
-|             5              |             32             |
-|             6              |             64             |
-|             7              |            128             |
-|             8              |            256             |
-|             9              |            512             |
-
+| :------------------------: | :------------------: |
+|             -9             |     0.001953125      |
+|             -8             |      0.00390625      |
+|             -7             |      0.0078125       |
+|             -6             |       0.015625       |
+|             -5             |       0.03125        |
+|             -4             |        0.0625        |
+|             -3             |        0.125         |
+|             -2             |         0.25         |
+|             -1             |         0.5          |
+|             0              |          1           |
+|             1              |          2           |
+|             2              |          4           |
+|             3              |          8           |
+|             4              |          16          |
+|             5              |          32          |
+|             6              |          64          |
+|             7              |         128          |
+|             8              |         256          |
+|             9              |         512          |
 
 Total required kills for an individual Chromatic to attain a rank (assuming no Class differences among all kills)
 

@@ -3,6 +3,7 @@ The [[Chromatics|Chromatic]] agencies are small branches of the [[Chromatic Orga
 Each Chromatic agency has multiple [[Chromatic Station|stations]] across the globe to house, aid and brief their Chromatics on upcoming missions.
 
 There are 6 agencies, each corresponding to one color.
+
 - Red
 - Blue
 - Green

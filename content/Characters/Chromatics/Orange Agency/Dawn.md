@@ -5,7 +5,8 @@ tags:
   - Chromatic
   - Orange
 ---
-*Dawn currently does not have a reference image.*
+
+_Dawn currently does not have a reference image._
 
 # Chromatic Info:
 
@@ -31,15 +32,17 @@ Dawn is outgoing, and is typically optimistic about the life around her. While s
 Her backstory hasn't been formed yet.
 
 # Character Relationships
+
 ## [[Eve]]
+
 Dawn's identical twin sister. They typically partake in many activities together simultaneously. This typically includes missions, recreational activities, hangouts, though they can be found separated when interacting with characters that have differing perceptions of the twins.
 
 Dawn usually has to convince Eve to do some of Dawn's more impulsive ideas, teasing her on until Eve either refuses or begrudgingly follows along. Dawn also actively tries to get Eve to be more outgoing and optimistic, though Eve has never seemed to consider any of Dawn's attempts to get Eve to socialize.
 
 ## [[Dusk]]
-Dawn's older brother. Dawn has looked up to Dusk for as long as she can remember, and misses their time together since she became a Chromatic. She's particularly scared of being forced to kill Dusk one day, either by him being notorious enough to be a target on a mission she takes, or even the off-chance that he also becomes an opposing Chromatic if he discovers that she and Eve have become Chromatics. 
+
+Dawn's older brother. Dawn has looked up to Dusk for as long as she can remember, and misses their time together since she became a Chromatic. She's particularly scared of being forced to kill Dusk one day, either by him being notorious enough to be a target on a mission she takes, or even the off-chance that he also becomes an opposing Chromatic if he discovers that she and Eve have become Chromatics.
 
 ## [[Kade]]
+
 Dawn's boyfriend. Their relationship is largely infatuous, with the two treating the relationship as a situationship amidst others. Dawn frequently compliments Kade on his appearance and accomplishments, and she often indirectly teases him in onto doing various favors for her, like lending points or doing tasks on her behalf.
-
-

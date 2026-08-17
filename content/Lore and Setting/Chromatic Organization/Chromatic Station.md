@@ -2,15 +2,15 @@ Chromatic Stations act as hubs for the [[Chromatics|Chromatics]], and they provi
 
 They provide:
 
-* [[#Housing/Living|Housing/Living spaces]]
-* [[#Dining/Food|Dining/Food in general]]
-* [[#Healing/Recovery services|Healing and recovery services]]
-* [[Mission Control/Briefings]]
-* [[Weapon Rinsing]]
-* [[Training]]
-* [[Entertainment and recreation]]
-* [[Chromatic Station Transporation|Transportation to other stations]]
-* [[Small personal storages]]
+- [[#Housing/Living|Housing/Living spaces]]
+- [[#Dining/Food|Dining/Food in general]]
+- [[#Healing/Recovery services|Healing and recovery services]]
+- [[Mission Control/Briefings]]
+- [[Weapon Rinsing]]
+- [[Training]]
+- [[Entertainment and recreation]]
+- [[Chromatic Station Transporation|Transportation to other stations]]
+- [[Small personal storages]]
 
 # Housing/Living
 

@@ -6,4 +6,3 @@ Once they found out about the [[Lead Researcher]] and his plans with the [[Chrom
 - Nobody without morally questionable large scale intentions/actions (pretty much all Civilians) should be harmed
 - The government should be able to assign contracts to the Chromatics
 - The government does not sabotage any attempts that the Chromatics make to complete their missions correctly
-

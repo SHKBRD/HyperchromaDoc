@@ -5,6 +5,7 @@ tags:
   - Chromatic
   - Blue
 ---
+
 ![[DevRef.png]]
 
 Dev is a [[Class]] 4 [[Chromatics|Chromatic]].

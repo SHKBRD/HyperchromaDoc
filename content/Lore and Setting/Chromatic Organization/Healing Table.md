@@ -6,7 +6,7 @@ Each table is large enough to support an 8 foot tall person, and is fitted with 
 
 When in use, the table is closed with a glass lid to closely monitor the Chromatic's oxygen intake.
 
-Here are some *very* rough models for what a healing table might look like.
+Here are some _very_ rough models for what a healing table might look like.
 
 Uncovered:
 
@@ -27,4 +27,3 @@ The Chromatic then lays down onto the table with their back against the table's 
 From there, the Chromatic will remain unconscious through the rest of their time on the table. Whatever wounds, fractures or infections are present are then sanitized and treated with the healing serum, and any debris lodged in the body is also removed. If the Chromatic previously opted into keeping the scars of their wounds, scars will not be treated. Whatever blood was lost is replaced, with any new blood [[Blood Encoding|encoded]] to the treated Chromatic.
 
 Once the Chromatic is fully healed and is cleaned of any blood and debris, they are no longer provided anesthesia, and are then woken up to collect their belongings and leave the healing table's room.
-

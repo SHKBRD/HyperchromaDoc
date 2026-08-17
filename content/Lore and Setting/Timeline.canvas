@@ -1,318 +1,2617 @@
 {
-	"nodes":[
-		{"id":"8d6ba67e799bb7ff","type":"group","x":-3200,"y":-3400,"width":8200,"height":580,"color":"1","label":"Story Set 1"},
-		{"id":"705fe2a7e1355255","type":"group","x":-1960,"y":-2680,"width":6071,"height":736,"color":"#5c77ff","label":"Story Set 2"},
-		{"id":"bb5f59ec2b33fe57","x":-2840,"y":-4080,"width":7060,"height":534,"color":"#ffffff","type":"group","label":"Mercenary Story Set"},
-		{"id":"b896362c4a40db5e","type":"group","x":-2840,"y":-1080,"width":7340,"height":440,"color":"#fe90f5","label":"Story Set 4"},
-		{"id":"93b1c43d25d16241","type":"group","x":-3300,"y":-520,"width":3340,"height":840,"color":"4","label":"Misc. Story Set"},
-		{"id":"d35999e2d8d215ad","type":"group","x":-3000,"y":-1800,"width":5260,"height":480,"color":"#9c39fe","label":"Story Set 3"},
-		{"id":"667b1ccf33ef29a2","type":"group","x":-2180,"y":380,"width":3875,"height":560,"color":"2","label":"Story Set 5+.5"},
-		{"id":"2358782bf273cb07","type":"group","x":-2580,"y":1120,"width":3880,"height":399,"color":"1","label":"Story Set 6"},
-		{"id":"98cbbec2777ee728","type":"group","x":-8160,"y":2880,"width":3900,"height":380,"color":"#ffffff","label":"Lead Researcher Backstory"},
-		{"id":"36349f43b1fe2161","type":"group","x":-3920,"y":-3180,"width":300,"height":4780,"color":"#ffffff","label":"Chromatics"},
-		{"id":"d8fe14d9c7b02362","type":"group","x":-4760,"y":-4040,"width":340,"height":1420,"color":"#ffffff","label":"Mercenaries"},
-		{"id":"d6d506c76915c7a7","type":"group","x":-5240,"y":-3152,"width":340,"height":412,"color":"#ffffff","label":"Mercenary Groups"},
-		{"id":"40779c8abfa80425","type":"text","text":"Cyn and Raine bump into each other at Ex's house on the night Raine decides to steal the coworker's belongings back, Raine blackmails Cyn to avoid getting in direct trouble with the firm","x":-940,"y":-2307,"width":500,"height":200},
-		{"id":"3e73c87780536709","type":"text","text":"Jess begins to find ways to blamelessly/inconspicuously harm people around her (schoolmates, family, friends) while progressively turning to harsher forms of torment","x":-560,"y":-3360,"width":720,"height":140},
-		{"id":"425adbd24713428d","type":"text","text":"Dev leaves work for the day, encountering a group of mafia members that are in the middle beating up his boyfriend, then fends them off even as it's too late to save said boyfriend","x":20,"y":-3060,"width":472,"height":220},
-		{"id":"3e4aa2b398193133","type":"text","text":"Syl becomes a mentor for purple agency","x":300,"y":-1660,"width":297,"height":98},
-		{"id":"de33ad95d15f4ed4","type":"text","text":"Syl and Star begin practicing together","x":40,"y":-1520,"width":270,"height":100},
-		{"id":"c59aea4a1161c240","type":"text","text":"Raine agrees to steal back belongings of a coworker from their ex's house","x":-1360,"y":-2160,"width":360,"height":140},
-		{"id":"b96694382517a7c3","type":"text","text":"[[Seth]]","x":-3900,"y":-960,"width":250,"height":60},
-		{"id":"60d0eaf5a8f4081f","type":"text","text":"[[Star]]","x":-3900,"y":-1459,"width":250,"height":60},
-		{"id":"858433aad3e257db","type":"text","text":"[[Syl]]","x":-3900,"y":-1640,"width":250,"height":60},
-		{"id":"da5e29d370d716fb","type":"text","text":"Meet together in law firm, very combative/chaotic rivalry","x":-1920,"y":-2240,"width":340,"height":120},
-		{"id":"b58e7c461611dc26","type":"text","text":"[[Raine]]","x":-3900,"y":-2220,"width":250,"height":60},
-		{"id":"6951534d541ebe2b","type":"text","text":"Cyn develops a romantic relationship with a coworker's ex, arrange a meetup in Ex's house","x":-1460,"y":-2340,"width":400,"height":140},
-		{"id":"02efa575b3469fd0","type":"text","text":"Jess begins to develop a sociopathic personality, and starts learning how to present herself as an empathetic person","x":-2600,"y":-3320,"width":463,"height":138},
-		{"id":"e6d2b55e2ccccc19","type":"text","text":"Cyn, Jay and Dusk develop a partnership for taking on missions together","x":3500,"y":-1460,"width":351,"height":143},
-		{"id":"70cbab60bc96926b","type":"text","text":"Raine becomes much more recognized in the duel betting scene in blue agency, making most of her points through winning station-held tournaments","x":3460,"y":-2100,"width":631,"height":136},
-		{"id":"3478a1fa5fee84c3","type":"text","text":"Cole finally leaves the syndicate after a member that hates Cole takes control of the syndicate","x":3620,"y":-980,"width":380,"height":140},
-		{"id":"3afeb8d066ed359a","type":"text","text":"Cole becomes a Chromatic","x":4160,"y":-940,"width":320,"height":70},
-		{"id":"ff37acd5c34a8c02","type":"text","text":"# Starting Point\n XX/XX/2525 ","x":5920,"y":-1120,"width":300,"height":760},
-		{"id":"cee2f08ca189126e","type":"text","text":"[[Dusk Dev Hangout Day Comic]]","x":6310,"y":-840,"width":420,"height":60},
-		{"id":"19ac17471dbae90c","type":"text","text":"[[A Duel Through Thin Air]]","x":6310,"y":-771,"width":347,"height":60},
-		{"id":"3c7c795f0921709b","type":"text","text":"[[A Night's Window]]","x":6310,"y":-700,"width":280,"height":60},
-		{"id":"71c0246aabcd4c00","type":"text","text":"[[Silver Path]]","x":6310,"y":-630,"width":250,"height":60},
-		{"id":"92fae1acf8e608b0","type":"text","text":"Ex starts searching for Raine, find out she's reported as dead and blames Chromatics org for killing her, starts targeting and harming Chromatics org","x":2940,"y":-2500,"width":412,"height":220},
-		{"id":"76118d5b998f83e2","type":"text","text":"Raine and Dusk develop small crushes for each other","x":4260,"y":-1460,"width":340,"height":100},
-		{"id":"71c16f46b4930fa0","type":"text","text":"Cyn and Raine meet in blue agency, they develop another combative rivalry","x":2980,"y":-2220,"width":368,"height":120},
-		{"id":"e5ed312f9f060dd2","type":"text","text":"Ex designated as a target by Chromatics org","x":3440,"y":-2440,"width":300,"height":100},
-		{"id":"c2d232b6bf85895e","type":"text","text":"Cyn forms and breaks more romantic relationships with two other blue Chromatics","x":2960,"y":-2640,"width":360,"height":120},
-		{"id":"406bab0cfefc34bd","type":"text","text":"Cyn and Dev form a romantic relationship","x":3480,"y":-2800,"width":326,"height":83},
-		{"id":"a4653fa75c3bfef5","type":"text","text":"Dev becomes a Chromatic, hoping for another shot at staying alive without the mafia knowing where he is, alongside the chance to take down the mafia once and for all now that he's a more capable fighter","x":2660,"y":-3060,"width":500,"height":210},
-		{"id":"21f609a03e878d8b","type":"text","text":"Jess discovers the [[Chromatic Organization]] and trains herself to complete the application exams","x":2800,"y":-3260,"width":410,"height":131},
-		{"id":"9f70f958deaaeee0","type":"text","text":"Jess becomes a Chromatic","x":3300,"y":-3160,"width":320,"height":70},
-		{"id":"34ec2d83e3babc92","type":"text","text":"Cyn becomes a Chromatic","x":2320,"y":-2380,"width":267,"height":100},
-		{"id":"d1c297eb02879170","type":"text","text":"Raine becomes a Chromatic","x":2340,"y":-2160,"width":267,"height":100},
-		{"id":"24e12bfb8eab3513","type":"text","text":"Jess and Dev meet again in a brief fight, then reunite","x":4220,"y":-3020,"width":300,"height":140},
-		{"id":"349a14ceaccbe119","type":"text","text":"Jess and Dev meet up multiple times in the following months in secret to catch up with each other","x":4560,"y":-3020,"width":400,"height":140},
-		{"id":"85044daca2d56470","type":"text","text":"Jess kills somebody for the first time, and seeks for more rushes of emotion that killing others gives her","x":2180,"y":-3300,"width":425,"height":130},
-		{"id":"d780b7686d0d477e","type":"text","text":"Dev is on the run from both the mafia and law enforcement for his past violence against mafia members who tried to kill him","x":1940,"y":-3040,"width":460,"height":160},
-		{"id":"3d41a32004a36de8","type":"text","text":"Mafia ends up targeting Dev for killing some of the gang members that targeted his bf, and the mafia starts tracking Dev down","x":660,"y":-3060,"width":440,"height":178},
-		{"id":"685876d07f8e6884","type":"text","text":"After Dev keeps getting into encounters that end up killing more mafia members, the mafia decides to blow up Dev's house (though Dev was away on some vacation while that happened) which makes Dev perpetually paranoid for his own safety ","x":1200,"y":-3060,"width":580,"height":200},
-		{"id":"5a325bec81b0748d","type":"text","text":"Raine and Ex develop romantic relationship","x":1160,"y":-2160,"width":309,"height":100},
-		{"id":"3950036765193e1c","type":"text","text":"Cyn fails in many of her other endeavors to pursue a long-term career","x":1500,"y":-2400,"width":460,"height":100},
-		{"id":"54dd94a5cc9f7d59","type":"text","text":"Raine and Ex steal the stuff together successfully, leading into longer-term partnership of breaking/entering and stealing from people for underground contracts","x":640,"y":-2220,"width":480,"height":220},
-		{"id":"801d599fa7f96374","type":"text","text":"Cyn gets fired from law firm eventually","x":900,"y":-2400,"width":292,"height":91},
-		{"id":"92bbe370415a3a64","type":"text","text":"Jay and Dusk meet together, become close friends","x":1380,"y":560,"width":295,"height":137},
-		{"id":"5578a384ede8d44b","type":"text","text":"Roy joins the Cards team to replace a killed member","x":440,"y":1280,"width":320,"height":80},
-		{"id":"06e80dc9234f725d","type":"text","text":"Jack joins the Cards team to replace another killed member","x":960,"y":1320,"width":320,"height":120},
-		{"id":"c52887ecb580827a","type":"text","text":"Jay becomes a Chromatic","x":920,"y":480,"width":307,"height":50},
-		{"id":"36dd7c6c6e1b0e32","type":"text","text":"Syl starts mentoring Seth","x":1180,"y":-1580,"width":302,"height":62},
-		{"id":"46f2c779a6db0ea8","type":"text","text":"Syl, Star and Seth start practicing together due to tighter mission difficulty/deadlines as they reach higher ranks, and occasionally take on missions together","x":1740,"y":-1580,"width":480,"height":180},
-		{"id":"b0ffd8b52f4a54fa","type":"text","text":"Raine leaves law firm","x":1540,"y":-2140,"width":278,"height":58},
-		{"id":"bbb361df4104c132","type":"text","text":"Raine gets attention of Chromatic organization after gaining notoriety, Chromatics org kidnaps Raine to have her work for them","x":1880,"y":-2200,"width":411,"height":180},
-		{"id":"98f12d79633eed56","type":"text","text":"Cyn gets in trouble with Ex after Raine frames Cyn as the one who broke into the house, Cyn and ex break up","x":160,"y":-2420,"width":460,"height":140},
-		{"id":"a8cd5a28cbc1c53e","type":"text","text":"Ex asks Raine to go steal the stuff back, claiming that it was his, not knowing she was the one who stole it from him","x":180,"y":-2200,"width":389,"height":180},
-		{"id":"23d542904c23821b","type":"text","text":"[[Chromatic Station|Chromatic Stations]] develop over time, Chromatic operations turn international","x":-4680,"y":2913,"width":340,"height":155},
-		{"id":"90a2fe46c61484f1","type":"text","text":"Researcher signs deal with [[International Government]], formally making the [[Chromatic Organization]] a much bigger entity","x":-5100,"y":2913,"width":400,"height":155},
-		{"id":"ee6936dacfbe1c75","type":"text","text":"Finds an underground group of assassins willing to try the developed [[Serums]], said group becomes extremely successful","x":-5880,"y":2901,"width":357,"height":180},
-		{"id":"7945ed644b7bd3f9","type":"text","text":"Kills his division, steals replicable copies of confidential research, destroys lab and traces of new research, goes on the run","x":-6340,"y":2900,"width":395,"height":180},
-		{"id":"983b3d59181767c2","type":"text","text":"Government catches onto the underground group, realizes the former lead researcher is in charge of the group","x":-5480,"y":2900,"width":360,"height":160},
-		{"id":"2e21ec151d24de7d","type":"text","text":"Ace takes on a very passionate yet unsuccessful magician career","x":-2560,"y":1140,"width":407,"height":83},
-		{"id":"9ef02ef99c3d0f2f","type":"text","text":"Jay starts a DJing/producing side-gig, develops into a somewhat maintainable job","x":-2160,"y":440,"width":380,"height":134},
-		{"id":"ac80c108a897ada0","type":"text","text":"Eve and Dawn go missing in public eye, then both are reported as dead","x":-1500,"y":780,"width":320,"height":120},
-		{"id":"22fbeab1555f77e1","type":"text","text":"Roy becomes a Chromatic","x":-1560,"y":1360,"width":320,"height":59},
-		{"id":"57092b1ffa547298","type":"text","text":"Kade encounters some of the criminal underworld as he performs errands and deals that benefit him and the club","x":-2800,"y":40,"width":420,"height":160},
-		{"id":"b560fbf7be5bb570","type":"text","text":"Finds out/suspects that his experiments with Chroma are seen by other division team members","x":-6780,"y":2922,"width":400,"height":138},
-		{"id":"9d18d8019638de7d","type":"text","text":"[[Lead Researcher]]","x":-8500,"y":2960,"width":250,"height":60},
-		{"id":"9835fe6359df51a4","type":"text","text":"Promoted to Head of a Biotech Division","x":-7400,"y":2945,"width":260,"height":93},
-		{"id":"961bc6b631edfa94","type":"text","text":"Begins researching vision and [[Chroma]] independently","x":-7800,"y":3121,"width":340,"height":99},
-		{"id":"a0e51edf8debbcd2","type":"text","text":"Joins [[International Government]] Research Team","x":-8140,"y":2920,"width":254,"height":140},
-		{"id":"05bff72a59844ac1","type":"text","text":"Discovers the 6 forms of Chroma","x":-7080,"y":2940,"width":250,"height":100},
-		{"id":"c901524d009aede4","type":"text","text":"[[Jay]]","x":-3900,"y":521,"width":250,"height":60},
-		{"id":"d42a272a36230930","type":"text","text":"[[Eve]]","x":-3900,"y":875,"width":250,"height":60},
-		{"id":"38d50d292a52377e","type":"text","text":"[[Clove]]","x":-3900,"y":1261,"width":250,"height":60},
-		{"id":"650cc267ba116af6","type":"text","text":"Eve becomes a Chromatic","x":-1100,"y":840,"width":340,"height":60},
-		{"id":"306f815edb222b0e","type":"text","text":"Jack becomes a Chromatic","x":-760,"y":1440,"width":320,"height":59},
-		{"id":"6044fd007b94093a","type":"text","text":"Dawn becomes a Chromatic","x":-1100,"y":740,"width":340,"height":60},
-		{"id":"c6da4384cb5add15","type":"text","text":"Kat becomes a Chromatic","x":-1340,"y":-98,"width":327,"height":60},
-		{"id":"40acdf1937251179","type":"text","text":"[[Kade]]","x":-3880,"y":80,"width":250,"height":60},
-		{"id":"06204cd23dfb7d16","type":"text","text":"[[Roy]]","x":-3900,"y":1362,"width":250,"height":60},
-		{"id":"87fb780bf93cf196","type":"text","text":"[[Jack]]","x":-3900,"y":1462,"width":250,"height":60},
-		{"id":"371a7e60add0e834","type":"text","text":"[[Dusk]]","x":-3900,"y":701,"width":250,"height":60},
-		{"id":"4da8528e0460801d","type":"text","text":"[[Dawn]]","x":-3900,"y":801,"width":250,"height":60},
-		{"id":"0cb97fdf0b66fc38","type":"text","text":"[[Ace]]","x":-3900,"y":1162,"width":250,"height":60},
-		{"id":"248600fc8f76086c","type":"text","text":"Venn becomes a Chromatic","x":-1340,"y":-220,"width":327,"height":60},
-		{"id":"e7dbfa9155d6abd8","type":"text","text":"Kade becomes a Chromatic","x":-1740,"y":80,"width":340,"height":70},
-		{"id":"df2a30487ad2ea83","type":"text","text":"Kade gets close with a cabaret club owner, starts running the venue alongside the owner","x":-3240,"y":40,"width":377,"height":160},
-		{"id":"5a640cb51b265bd7","type":"text","text":"Ace becomes a Chromatic","x":-1360,"y":1160,"width":320,"height":59},
-		{"id":"ea1fca9dbf036ac9","type":"text","text":"Clove becomes a Chromatic","x":-1200,"y":1264,"width":340,"height":59},
-		{"id":"f8ac5716447ffa47","type":"text","text":"[[Venn]]","x":-3900,"y":-240,"width":250,"height":60},
-		{"id":"4d24095385cf7439","type":"text","text":"[[Cole]]","x":-3900,"y":-759,"width":250,"height":60},
-		{"id":"2e0a9a8d5d4b8d8c","type":"text","text":"[[Claire]]","x":-3900,"y":-360,"width":250,"height":60},
-		{"id":"467235d8b35971be","type":"text","text":"[[Kat]]","x":-3900,"y":-120,"width":250,"height":60},
-		{"id":"4a8e35767ddb975b","type":"text","text":"Chromatics org target Jay for killing the chromatic, and the chromatic that gets sent out to kill Jay ends up recruiting him instead","x":160,"y":420,"width":420,"height":180},
-		{"id":"35d9774d8979fbb0","type":"text","text":"Dusk becomes a Chromatic in hopes of getting revenge against crime groups he thinks are responsible for twins' deaths","x":-60,"y":620,"width":380,"height":160},
-		{"id":"92026e63b9af7a28","type":"text","text":"Seth becomes a Chromatic to deal with underground crime directly","x":-60,"y":-1000,"width":380,"height":120},
-		{"id":"2ae7ec8fb9dd5eb3","type":"text","text":"Seth and mercenary Cole get into an fight during a mission in Cole's syndicate headquarters, Cole wins, but spares Seth","x":440,"y":-880,"width":480,"height":140},
-		{"id":"b5645568225400b0","type":"text","text":"Claire becomes a Chromatic","x":-1120,"y":-359,"width":347,"height":60},
-		{"id":"3c3627b2ba2d0307","type":"text","text":"Kade continuously takes on multiple concurrent romantic relationships with various Chromatics in his frequently visited stations","x":-1220,"y":40,"width":540,"height":140},
-		{"id":"ea356f3da52fe64f","type":"text","text":"Kade gets much more personally involved with the criminal underworld, then discovers the [[Chromatic Organization]] as a way out of his debts and obligations","x":-2320,"y":20,"width":460,"height":200},
-		{"id":"9628a4cb8ee33db7","type":"text","text":"Seth becomes a police officer","x":-1600,"y":-980,"width":288,"height":85},
-		{"id":"179dea5a430a6118","type":"text","text":"Cole becomes a grunt of a mercenary syndicate","x":-2820,"y":-820,"width":551,"height":65},
-		{"id":"6b3eed4c84005345","type":"text","text":"Cole and Kat start interacting with each other on social media sites under anonymous profiles","x":-3240,"y":-480,"width":436,"height":117},
-		{"id":"17c95a05cac72037","type":"text","text":"Seth gets into multiple encounters with deep crime orgs and corruption in police orgs, makes him disillusioned with serving justice for the public","x":-660,"y":-1060,"width":390,"height":200},
-		{"id":"7555250f8eecb3b6","type":"text","text":"Chromatic mission happens near Jay's apartment, and a chromatic missteps into Jay's room, causing him to fight back and he inadvertently kills the chromatic.","x":-400,"y":420,"width":500,"height":180},
-		{"id":"b26af04a87a25642","type":"text","text":"Ace forms the Cards team with Clove and two other chromatics","x":-280,"y":1160,"width":316,"height":115},
-		{"id":"518ef7a917706573","type":"text","text":"Kat and Venn meet together, become close friends and partners in missions","x":-780,"y":-220,"width":295,"height":180},
-		{"id":"1109af9c058884a0","type":"text","text":"Cole ranks up within the syndicate by taking down a bunch of Chromatics and doing various jobs for the org, though multiple changes in leadership within the syndicate make his status and relationships within the group unstable","x":-1580,"y":-860,"width":620,"height":200},
-		{"id":"c31c6d5420f1157d","type":"text","text":"Star's double starts taking fewer roles that require Star to act as a double, so Star begins to rely on his trading ties to stay afloat","x":-2040,"y":-1500,"width":528,"height":140},
-		{"id":"befc526dfa5ca786","type":"text","text":"Star begins to gain ties with crime groups to make extra money off selling illicit drugs to studio staff/actors","x":-2540,"y":-1500,"width":453,"height":137},
-		{"id":"5211e1fdc855f6d4","type":"text","text":"Star becomes a Chromatic","x":-520,"y":-1460,"width":327,"height":60},
-		{"id":"cf6d5103aa28555b","type":"text","text":"Syl tracks down the targeted student to help them fend off of any other Chromatics following them, but the student has already turned resentful towards Chromatics as a whole, forcing Syl to kill them to avoid getting in trouble with her agency","x":-520,"y":-1780,"width":531,"height":242},
-		{"id":"74a182ac753e9632","type":"text","text":"Actor gives Star ultimatum on either working in the studio or holding ties with his trading network, since the actor is implicated in Star's activities","x":-1420,"y":-1520,"width":440,"height":180},
-		{"id":"3702b06d85ce88b5","type":"text","text":"Star takes on a stunt double role for a famous movie actor","x":-2980,"y":-1480,"width":347,"height":100},
-		{"id":"aca26a25234d55d1","type":"text","text":"Star goes missing to avoid confronting actor","x":-920,"y":-1480,"width":299,"height":100},
-		{"id":"4954790d8c770c68","type":"text","text":"Syl finds one of her students getting beaten up by a Chromatic, fights back and unintentionally kills the Chromatic","x":-1520,"y":-1660,"width":440,"height":120},
-		{"id":"ab34908eb71ff4fc","type":"text","text":"Syl takes on martial arts as a hobby/specialty skill","x":-2700,"y":-1660,"width":300,"height":100},
-		{"id":"538955cca984743b","type":"text","text":"Syl begins teaching martial arts ","x":-2060,"y":-1660,"width":281,"height":100},
-		{"id":"bb4dc98e9b1ea507","type":"text","text":"Syl turns herself into the police, but gets forced to become a Chromatic once the officials realize she killed a Chromatic","x":-1040,"y":-1660,"width":460,"height":120},
-		{"id":"17b12eac3c2eee0d","type":"text","text":"Claire gathers a group of closer friends in Pink agency, they all eventually decide to keep going on missions together","x":-440,"y":-400,"width":460,"height":140},
-		{"id":"1f9f803a8c345abf","type":"text","text":"Raine runs before Ex gets to see her in the house at all, inevitably putting the blame for all the stolen stuff on Cyn","x":-360,"y":-2300,"width":379,"height":173},
-		{"id":"c048a1d405b7a3b9","type":"text","text":"[[Cyn]]","x":-3900,"y":-2400,"width":250,"height":60},
-		{"id":"a0a44ef9bcfde230","type":"text","text":"[[Jess]]","x":-3900,"y":-3140,"width":250,"height":50},
-		{"id":"9a5f44c459731f56","type":"text","text":"A Mafia-type Org","x":-5220,"y":-3131,"width":250,"height":62},
-		{"id":"b1cc0db30b2cd42d","type":"text","text":"Cybercollective","x":-5220,"y":-3028,"width":250,"height":62},
-		{"id":"01eb0413bbe96e30","type":"text","text":"Cole's former Syndicate","x":-5220,"y":-2925,"width":300,"height":62},
-		{"id":"d4cdf521367bd23d","type":"text","text":"???","x":-5220,"y":-2822,"width":250,"height":62},
-		{"id":"31faf6e3d4c20be7","type":"text","text":"Members without links ([[]]) have non-final names/terms to refer to them","x":-5220,"y":-3431,"width":349,"height":145},
-		{"id":"d0cd17a056c1cc91","type":"text","text":"[[Dev]]","x":-3900,"y":-2880,"width":250,"height":60},
-		{"id":"439fadb666c4520b","x":2180,"y":-3760,"width":460,"height":180,"type":"text","text":"Chromatics begin to whittle away at the organization's other guards, leaving essentially just Amber and Jasper to fend off the organization's threats"},
-		{"id":"9499bfbf149766b9","type":"text","text":"Amber and Jasper are assigned to track down and kill any Chromatics they see to avoid any future threats to their organization","x":2720,"y":-3760,"width":426,"height":194},
-		{"id":"d7f94c11251f0291","x":-360,"y":-3760,"width":440,"height":98,"type":"text","text":"Amber and Jasper join the organization separately as bodyguards"},
-		{"id":"f18ba6e634b1d964","x":1100,"y":-3780,"width":460,"height":180,"type":"text","text":"Chromatics begin targeting organization, Amber and Lucas manage to fend off against the first Chromatic's first mission against the org"},
-		{"id":"6a9dbaff76c2090d","type":"text","text":"Kade and Dawn form a romantic relationship","x":-420,"y":180,"width":374,"height":100},
-		{"id":"cadd7f93afa56b20","type":"text","text":"[[Amber]]","x":-4740,"y":-3820,"width":250,"height":62},
-		{"id":"57882ac67a8c0251","type":"text","text":"[[Jasper]]","x":-4740,"y":-3717,"width":250,"height":62},
-		{"id":"1bc932da184b70f9","type":"text","text":"# Story sets are largely isolated from one another \n# Reading every story set isn't necessary to read any given scenario that happens after Starting Point\n# Event placement across sets isn't comparable (events farther to the right in set X might not happen later than a further left event in set Y, etc.)\n","x":-3840,"y":-4920,"width":1520,"height":658},
-		{"id":"acdf4bab47185290","x":-2820,"y":-3660,"width":283,"height":92,"type":"text","text":"{undecided name} Organization is formed"},
-		{"id":"ae813589b9140c72","type":"text","text":"[[Raven]]","x":-4740,"y":-3980,"width":250,"height":62},
-		{"id":"a40e1c02d3f36d2f","type":"text","text":"Meet as school BFFs, then separate on their own paths","x":-3180,"y":-3020,"width":300,"height":120},
-		{"id":"765f6641a950af1d","type":"text","text":"Raine's Partner-in-crime (Ex for now)","x":-4740,"y":-2720,"width":300,"height":82},
-		{"id":"9dc3964bf417ed8b","x":-1680,"y":-3960,"width":400,"height":120,"type":"text","text":"Raven begins robbing graves and pawning off their findings to earn a substantial income"},
-		{"id":"8ce7613ab214cfc1","x":3060,"y":-4040,"width":660,"height":180,"type":"text","text":"Raven begins investigating many other people who have mysteriously died/disappeared in hopes of finding out more about Chromatics, robs more graves that they suspect come from people who have turned into Chromatics"},
-		{"id":"7fa589b0adc35057","x":2480,"y":-4020,"width":540,"height":140,"type":"text","text":"Raven returns to the grave to find a Chromatic visiting the grave, and gets into a confrontation that ends with Raven killing the Chromatic"},
-		{"id":"f6945e321c5adaa2","x":1840,"y":-4060,"width":580,"height":220,"type":"text","text":"Raven finds a grave that is supposed to contain a buried body (which belongs to a currently operating Chromatic), yet they are surprised to find out that the body is completely missing from the grave's casket, and suspects the person is still alive"},
-		{"id":"71bdb21767ccd82c","x":3760,"y":-4040,"width":440,"height":180,"type":"text","text":"Raven gets targeted by the Chromatics Org for killing the Chromatic he encountered, as well as interfering with Chromatic missions"}
-	],
-	"edges":[
-		{"id":"227f4006c9e100de","fromNode":"ff37acd5c34a8c02","fromSide":"right","toNode":"19ac17471dbae90c","toSide":"left"},
-		{"id":"9adf33533f00f3ed","fromNode":"d4cdf521367bd23d","fromSide":"right","toNode":"cadd7f93afa56b20","toSide":"left"},
-		{"id":"f304855703d609bb","fromNode":"d4cdf521367bd23d","fromSide":"right","toNode":"57882ac67a8c0251","toSide":"left"},
-		{"id":"93969c80d96cea1d","fromNode":"9d18d8019638de7d","fromSide":"right","toNode":"a0e51edf8debbcd2","toSide":"left"},
-		{"id":"28710b13b3f5f178","fromNode":"a0e51edf8debbcd2","fromSide":"right","toNode":"9835fe6359df51a4","toSide":"left"},
-		{"id":"815b7a063e61bac9","fromNode":"a0e51edf8debbcd2","fromSide":"bottom","toNode":"961bc6b631edfa94","toSide":"left"},
-		{"id":"eac25a83445ad057","fromNode":"961bc6b631edfa94","fromSide":"right","toNode":"05bff72a59844ac1","toSide":"bottom"},
-		{"id":"db78fac664e3c5a7","fromNode":"9835fe6359df51a4","fromSide":"right","toNode":"05bff72a59844ac1","toSide":"left"},
-		{"id":"019674bec7dec576","fromNode":"05bff72a59844ac1","fromSide":"right","toNode":"b560fbf7be5bb570","toSide":"left"},
-		{"id":"37834a0fcb030c85","fromNode":"b560fbf7be5bb570","fromSide":"right","toNode":"7945ed644b7bd3f9","toSide":"left"},
-		{"id":"ec72f58969bcbdd7","fromNode":"7945ed644b7bd3f9","fromSide":"right","toNode":"ee6936dacfbe1c75","toSide":"left"},
-		{"id":"c6058a921e3165ae","fromNode":"ee6936dacfbe1c75","fromSide":"right","toNode":"983b3d59181767c2","toSide":"left"},
-		{"id":"0bd26a1d21578965","fromNode":"983b3d59181767c2","fromSide":"right","toNode":"90a2fe46c61484f1","toSide":"left"},
-		{"id":"32a1eccb648caeab","fromNode":"90a2fe46c61484f1","fromSide":"right","toNode":"23d542904c23821b","toSide":"left"},
-		{"id":"4f384e6345001bb2","fromNode":"23d542904c23821b","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"135c0a08b83b723b","fromNode":"ff37acd5c34a8c02","fromSide":"right","toNode":"71c0246aabcd4c00","toSide":"left"},
-		{"id":"d34c914d1a215200","fromNode":"ff37acd5c34a8c02","fromSide":"right","toNode":"3c7c795f0921709b","toSide":"left"},
-		{"id":"7ae307c425593114","fromNode":"ff37acd5c34a8c02","fromSide":"right","toNode":"cee2f08ca189126e","toSide":"left"},
-		{"id":"e9255340a83b403a","fromNode":"c52887ecb580827a","fromSide":"right","toNode":"92bbe370415a3a64","toSide":"left","color":"5"},
-		{"id":"bf766f7a869e3f09","fromNode":"35d9774d8979fbb0","fromSide":"right","toNode":"92bbe370415a3a64","toSide":"left","color":"#2a54fe"},
-		{"id":"fdf3a63d3ae95b24","fromNode":"c048a1d405b7a3b9","fromSide":"right","toNode":"da5e29d370d716fb","toSide":"left","color":"5"},
-		{"id":"5abe21192a42885d","fromNode":"b58e7c461611dc26","fromSide":"right","toNode":"da5e29d370d716fb","toSide":"left","color":"#395ff3"},
-		{"id":"d5c040bc55be07ff","fromNode":"b58e7c461611dc26","fromSide":"right","toNode":"c59aea4a1161c240","toSide":"left","color":"#395ff3"},
-		{"id":"31af4e1b41a2d9f6","fromNode":"a0a44ef9bcfde230","fromSide":"right","toNode":"a40e1c02d3f36d2f","toSide":"left","color":"1"},
-		{"id":"0abccd506f19cb04","fromNode":"d0cd17a056c1cc91","fromSide":"right","toNode":"a40e1c02d3f36d2f","toSide":"left","color":"5"},
-		{"id":"e188b258c6ae8f9b","fromNode":"9f70f958deaaeee0","fromSide":"right","toNode":"24e12bfb8eab3513","toSide":"left","color":"1"},
-		{"id":"7fd2bda0cd803528","fromNode":"c048a1d405b7a3b9","fromSide":"right","toNode":"6951534d541ebe2b","toSide":"left","color":"5"},
-		{"id":"c38fd1e9bdeab101","fromNode":"6951534d541ebe2b","fromSide":"right","toNode":"40779c8abfa80425","toSide":"left"},
-		{"id":"4fe9526177d1e8bf","fromNode":"c59aea4a1161c240","fromSide":"right","toNode":"40779c8abfa80425","toSide":"left","color":"#395ff3"},
-		{"id":"e67ae6bc502434c4","fromNode":"248600fc8f76086c","fromSide":"right","toNode":"518ef7a917706573","toSide":"left","color":"#00b32d"},
-		{"id":"3b8ccfa32113f8c2","fromNode":"c6da4384cb5add15","fromSide":"right","toNode":"518ef7a917706573","toSide":"left","color":"#a4feaa"},
-		{"id":"a558d6a8fe59bd88","fromNode":"f8ac5716447ffa47","fromSide":"right","toNode":"248600fc8f76086c","toSide":"left","color":"#00b32d"},
-		{"id":"6e03b9ad165bb462","fromNode":"467235d8b35971be","fromSide":"right","toNode":"c6da4384cb5add15","toSide":"left","color":"#a4feaa"},
-		{"id":"a68e0dd5856a27f7","fromNode":"518ef7a917706573","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"76721de6de2c7141","fromNode":"24e12bfb8eab3513","fromSide":"right","toNode":"349a14ceaccbe119","toSide":"left"},
-		{"id":"58bed21fcbe5c6ce","fromNode":"349a14ceaccbe119","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"dde2c93ba1b6a27f","fromNode":"4da8528e0460801d","fromSide":"right","toNode":"ac80c108a897ada0","toSide":"left","color":"#fec686"},
-		{"id":"c8b1cc818f85804f","fromNode":"d42a272a36230930","fromSide":"right","toNode":"ac80c108a897ada0","toSide":"left","color":"#8f4c00"},
-		{"id":"0d67695a7fa4dbcc","fromNode":"ac80c108a897ada0","fromSide":"right","toNode":"35d9774d8979fbb0","toSide":"left","color":"2"},
-		{"id":"d7f59b9c94eb5064","fromNode":"371a7e60add0e834","fromSide":"right","toNode":"35d9774d8979fbb0","toSide":"left","color":"#2a54fe"},
-		{"id":"167c0c7b9cfa8138","fromNode":"6951534d541ebe2b","fromSide":"right","toNode":"40779c8abfa80425","toSide":"left","color":"5"},
-		{"id":"747f138af1c05df0","fromNode":"5a325bec81b0748d","fromSide":"right","toNode":"b0ffd8b52f4a54fa","toSide":"left","color":"#395ff3"},
-		{"id":"ea03b87dcc207b13","fromNode":"b0ffd8b52f4a54fa","fromSide":"right","toNode":"bbb361df4104c132","toSide":"left","color":"#395ff3"},
-		{"id":"a7700b48910d868b","fromNode":"bbb361df4104c132","fromSide":"right","toNode":"d1c297eb02879170","toSide":"left","color":"#395ff3"},
-		{"id":"006f1bf8022a35e0","fromNode":"98f12d79633eed56","fromSide":"right","toNode":"801d599fa7f96374","toSide":"left","color":"5"},
-		{"id":"57a0e0d7043a3005","fromNode":"3950036765193e1c","fromSide":"right","toNode":"34ec2d83e3babc92","toSide":"left","color":"5"},
-		{"id":"94383574cbd08f72","fromNode":"a8cd5a28cbc1c53e","fromSide":"right","toNode":"54dd94a5cc9f7d59","toSide":"left","color":"#395ff3"},
-		{"id":"a58e2be504e18064","fromNode":"54dd94a5cc9f7d59","fromSide":"right","toNode":"5a325bec81b0748d","toSide":"left","color":"#395ff3"},
-		{"id":"0f08ac186fbb64ea","fromNode":"92fae1acf8e608b0","fromSide":"right","toNode":"e5ed312f9f060dd2","toSide":"left"},
-		{"id":"4ec12cdd5803a775","fromNode":"34ec2d83e3babc92","fromSide":"right","toNode":"71c16f46b4930fa0","toSide":"left","color":"5"},
-		{"id":"e4a01700539ca9b4","fromNode":"d1c297eb02879170","fromSide":"right","toNode":"71c16f46b4930fa0","toSide":"left","color":"#395ff3"},
-		{"id":"e95432e972b83ae9","fromNode":"d1c297eb02879170","fromSide":"right","toNode":"76118d5b998f83e2","toSide":"left","color":"#395ff3"},
-		{"id":"80bd886f844a1c23","fromNode":"35d9774d8979fbb0","fromSide":"right","toNode":"76118d5b998f83e2","toSide":"left","color":"#2a54fe"},
-		{"id":"01ad71f755c9fbe6","fromNode":"76118d5b998f83e2","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"11cd7d7ba05d90a2","fromNode":"34ec2d83e3babc92","fromSide":"right","toNode":"e6d2b55e2ccccc19","toSide":"left","color":"5"},
-		{"id":"199882b0dd46e845","fromNode":"92bbe370415a3a64","fromSide":"right","toNode":"e6d2b55e2ccccc19","toSide":"left"},
-		{"id":"bd6a1652c1384656","fromNode":"34ec2d83e3babc92","fromSide":"right","toNode":"c2d232b6bf85895e","toSide":"left","color":"5"},
-		{"id":"b5417314b616bf69","fromNode":"c2d232b6bf85895e","fromSide":"right","toNode":"406bab0cfefc34bd","toSide":"left","color":"5"},
-		{"id":"d4f16743b48b2137","fromNode":"a4653fa75c3bfef5","fromSide":"right","toNode":"406bab0cfefc34bd","toSide":"left","color":"5"},
-		{"id":"8d13983c6a51fed5","fromNode":"e6d2b55e2ccccc19","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"64961ceca0934888","fromNode":"d1c297eb02879170","fromSide":"right","toNode":"92fae1acf8e608b0","toSide":"left","color":"#395ff3"},
-		{"id":"4e3e28be3f066703","fromNode":"e5ed312f9f060dd2","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"03bb94d6e140df8c","fromNode":"858433aad3e257db","fromSide":"right","toNode":"ab34908eb71ff4fc","toSide":"left","color":"#6c47ff"},
-		{"id":"e036ce939ac15dd0","fromNode":"538955cca984743b","fromSide":"right","toNode":"4954790d8c770c68","toSide":"left","color":"#6c47ff"},
-		{"id":"5f5a9cc7740efdf5","fromNode":"4954790d8c770c68","fromSide":"right","toNode":"bb4dc98e9b1ea507","toSide":"left","color":"#6c47ff"},
-		{"id":"69651da645a103fc","fromNode":"ab34908eb71ff4fc","fromSide":"right","toNode":"538955cca984743b","toSide":"left","color":"#6c47ff"},
-		{"id":"5f8219634baf5d25","fromNode":"9628a4cb8ee33db7","fromSide":"right","toNode":"17c95a05cac72037","toSide":"left","color":"6"},
-		{"id":"74eae74e803d5838","fromNode":"17c95a05cac72037","fromSide":"right","toNode":"92026e63b9af7a28","toSide":"left","color":"6"},
-		{"id":"017af77f9114f0e9","fromNode":"5211e1fdc855f6d4","fromSide":"right","toNode":"de33ad95d15f4ed4","toSide":"left","color":"#e6c7ff"},
-		{"id":"c9f8adaa170fa783","fromNode":"801d599fa7f96374","fromSide":"right","toNode":"3950036765193e1c","toSide":"left","color":"5"},
-		{"id":"b8025a278488584c","fromNode":"3e4aa2b398193133","fromSide":"right","toNode":"36dd7c6c6e1b0e32","toSide":"left","color":"#6c47ff"},
-		{"id":"33bfba3e6840b94b","fromNode":"de33ad95d15f4ed4","fromSide":"right","toNode":"46f2c779a6db0ea8","toSide":"left","color":"#e6c7ff"},
-		{"id":"3cee233cc32a2d74","fromNode":"36dd7c6c6e1b0e32","fromSide":"right","toNode":"46f2c779a6db0ea8","toSide":"left","color":"#6c47ff"},
-		{"id":"29fb5232a9ec29d1","fromNode":"92026e63b9af7a28","fromSide":"right","toNode":"2ae7ec8fb9dd5eb3","toSide":"left","color":"6"},
-		{"id":"7569930ef281e9ae","fromNode":"2ae7ec8fb9dd5eb3","fromSide":"right","toNode":"36dd7c6c6e1b0e32","toSide":"left","color":"6"},
-		{"id":"1d35ac7ff2623de4","fromNode":"3702b06d85ce88b5","fromSide":"right","toNode":"befc526dfa5ca786","toSide":"left","color":"#e6c7ff"},
-		{"id":"13a97dca62f6c0cf","fromNode":"60d0eaf5a8f4081f","fromSide":"right","toNode":"3702b06d85ce88b5","toSide":"left","color":"#e6c7ff"},
-		{"id":"122c6ef23da2ec59","fromNode":"befc526dfa5ca786","fromSide":"right","toNode":"c31c6d5420f1157d","toSide":"left","color":"#e6c7ff"},
-		{"id":"b7340ad8a6124235","fromNode":"aca26a25234d55d1","fromSide":"right","toNode":"5211e1fdc855f6d4","toSide":"left","color":"#e6c7ff"},
-		{"id":"80958d52f54f89df","fromNode":"c31c6d5420f1157d","fromSide":"right","toNode":"74a182ac753e9632","toSide":"left","color":"#e6c7ff"},
-		{"id":"04237148e813a040","fromNode":"74a182ac753e9632","fromSide":"right","toNode":"aca26a25234d55d1","toSide":"left","color":"#e6c7ff"},
-		{"id":"7c8704b89eebcf0f","fromNode":"d1c297eb02879170","fromSide":"right","toNode":"70cbab60bc96926b","toSide":"left","color":"#395ff3"},
-		{"id":"4a2091302195abc7","fromNode":"70cbab60bc96926b","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"87450f75e3c525fb","fromNode":"b5645568225400b0","fromSide":"right","toNode":"17b12eac3c2eee0d","toSide":"left","color":"#ff00ea"},
-		{"id":"037eae566744ee95","fromNode":"2e0a9a8d5d4b8d8c","fromSide":"right","toNode":"b5645568225400b0","toSide":"left","color":"#ff00ea"},
-		{"id":"88ee64c48eded135","fromNode":"17b12eac3c2eee0d","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"b59f8128566df5f7","fromNode":"ac80c108a897ada0","fromSide":"right","toNode":"6044fd007b94093a","toSide":"left","color":"#fec686"},
-		{"id":"47d5b4aabe8742b1","fromNode":"ac80c108a897ada0","fromSide":"right","toNode":"650cc267ba116af6","toSide":"left","color":"#8f4c00"},
-		{"id":"0f89d73f0f334ed8","fromNode":"6044fd007b94093a","fromSide":"right","toNode":"6a9dbaff76c2090d","toSide":"left","color":"#fec686"},
-		{"id":"5e5a8e9199b0460e","fromNode":"4d24095385cf7439","fromSide":"right","toNode":"179dea5a430a6118","toSide":"left","color":"#fb00ff"},
-		{"id":"e1cfdefb1862f39f","fromNode":"01eb0413bbe96e30","fromSide":"right","toNode":"179dea5a430a6118","toSide":"left"},
-		{"id":"098225555b77417c","fromNode":"179dea5a430a6118","fromSide":"right","toNode":"1109af9c058884a0","toSide":"left","color":"#fb00ff"},
-		{"id":"d426e0ddd634c340","fromNode":"1109af9c058884a0","fromSide":"right","toNode":"2ae7ec8fb9dd5eb3","toSide":"left","color":"#fb00ff"},
-		{"id":"4226fbd3326c5084","fromNode":"3478a1fa5fee84c3","fromSide":"right","toNode":"3afeb8d066ed359a","toSide":"left","color":"#fb00ff"},
-		{"id":"144dc22801987ce4","fromNode":"2ae7ec8fb9dd5eb3","fromSide":"right","toNode":"3478a1fa5fee84c3","toSide":"left","color":"#fb00ff"},
-		{"id":"1dcd7d83776c4b79","fromNode":"3afeb8d066ed359a","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"17b06e452144bf66","fromNode":"46f2c779a6db0ea8","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"24c8a411c9a400a4","fromNode":"425adbd24713428d","fromSide":"right","toNode":"3d41a32004a36de8","toSide":"left","color":"5"},
-		{"id":"c0e7f3e1ae4bc1cf","fromNode":"d0cd17a056c1cc91","fromSide":"right","toNode":"425adbd24713428d","toSide":"left","color":"5"},
-		{"id":"21909c2435e14b76","fromNode":"685876d07f8e6884","fromSide":"right","toNode":"d780b7686d0d477e","toSide":"left","color":"5"},
-		{"id":"7eb36939219d9638","fromNode":"3d41a32004a36de8","fromSide":"right","toNode":"685876d07f8e6884","toSide":"left","color":"5"},
-		{"id":"80c6080868151e52","fromNode":"1f9f803a8c345abf","fromSide":"right","toNode":"98f12d79633eed56","toSide":"left","color":"5"},
-		{"id":"70ced4cf6fced256","fromNode":"40779c8abfa80425","fromSide":"right","toNode":"1f9f803a8c345abf","toSide":"left"},
-		{"id":"f3285ca7f121828f","fromNode":"1f9f803a8c345abf","fromSide":"right","toNode":"a8cd5a28cbc1c53e","toSide":"left","color":"#395ff3"},
-		{"id":"33b414d2f1c65f80","fromNode":"d780b7686d0d477e","fromSide":"right","toNode":"a4653fa75c3bfef5","toSide":"left","color":"5"},
-		{"id":"7bf7f5be30b14aad","fromNode":"a4653fa75c3bfef5","fromSide":"right","toNode":"24e12bfb8eab3513","toSide":"left","color":"5"},
-		{"id":"435368f684ed43c5","fromNode":"765f6641a950af1d","fromSide":"right","toNode":"92fae1acf8e608b0","toSide":"left"},
-		{"id":"2c3e699edc3503ec","fromNode":"e7dbfa9155d6abd8","fromSide":"right","toNode":"3c3627b2ba2d0307","toSide":"left","color":"2"},
-		{"id":"8087ab9f0288dc29","fromNode":"3c3627b2ba2d0307","fromSide":"right","toNode":"6a9dbaff76c2090d","toSide":"left","color":"2"},
-		{"id":"ca825f0f5cb400ef","fromNode":"c901524d009aede4","fromSide":"right","toNode":"9ef02ef99c3d0f2f","toSide":"left","color":"5"},
-		{"id":"997f71a19f292408","fromNode":"9ef02ef99c3d0f2f","fromSide":"right","toNode":"7555250f8eecb3b6","toSide":"left","color":"5"},
-		{"id":"12cdfb55845ad3bd","fromNode":"7555250f8eecb3b6","fromSide":"right","toNode":"4a8e35767ddb975b","toSide":"left","color":"5"},
-		{"id":"129d32b87d6d47e5","fromNode":"4a8e35767ddb975b","fromSide":"right","toNode":"c52887ecb580827a","toSide":"left","color":"5"},
-		{"id":"7c7d1484b9ce1907","fromNode":"87fb780bf93cf196","fromSide":"right","toNode":"306f815edb222b0e","toSide":"left","color":"#ff4d4d"},
-		{"id":"d48d867043957bbb","fromNode":"0cb97fdf0b66fc38","fromSide":"right","toNode":"2e21ec151d24de7d","toSide":"left","color":"#ff0000"},
-		{"id":"b514e37bbaf506b7","fromNode":"2e21ec151d24de7d","fromSide":"right","toNode":"5a640cb51b265bd7","toSide":"left","color":"#ff0000"},
-		{"id":"9ecc4667c5889530","fromNode":"38d50d292a52377e","fromSide":"right","toNode":"ea1fca9dbf036ac9","toSide":"left","color":"#a74444"},
-		{"id":"14e3ea2f620b6a8f","fromNode":"06204cd23dfb7d16","fromSide":"right","toNode":"22fbeab1555f77e1","toSide":"left","color":"#7a0000"},
-		{"id":"98519f6ab0e0b9eb","fromNode":"b26af04a87a25642","fromSide":"right","toNode":"5578a384ede8d44b","toSide":"left"},
-		{"id":"c3ff9eae9bc358d5","fromNode":"22fbeab1555f77e1","fromSide":"right","toNode":"5578a384ede8d44b","toSide":"left","color":"#7a0000"},
-		{"id":"9e7bc316eb882b5f","fromNode":"306f815edb222b0e","fromSide":"right","toNode":"06e80dc9234f725d","toSide":"left","color":"#ff4d4d"},
-		{"id":"ceba67ca1a2b8a45","fromNode":"5578a384ede8d44b","fromSide":"right","toNode":"06e80dc9234f725d","toSide":"left"},
-		{"id":"58e78a036b211eb0","fromNode":"5a640cb51b265bd7","fromSide":"right","toNode":"b26af04a87a25642","toSide":"left","color":"#ff0000"},
-		{"id":"05d0541b704ab6f8","fromNode":"ea1fca9dbf036ac9","fromSide":"right","toNode":"b26af04a87a25642","toSide":"left","color":"#a74444"},
-		{"id":"520b3a1443eafadd","fromNode":"06e80dc9234f725d","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"d82fe5d7bc9f7ace","fromNode":"bb4dc98e9b1ea507","fromSide":"right","toNode":"cf6d5103aa28555b","toSide":"left","color":"#6c47ff"},
-		{"id":"11a1f67617db321e","fromNode":"cf6d5103aa28555b","fromSide":"right","toNode":"de33ad95d15f4ed4","toSide":"left","color":"#6c47ff"},
-		{"id":"11dfb1d53a97374c","fromNode":"cf6d5103aa28555b","fromSide":"right","toNode":"3e4aa2b398193133","toSide":"left","color":"#6c47ff"},
-		{"id":"f75ea1851364f247","fromNode":"b96694382517a7c3","fromSide":"right","toNode":"9628a4cb8ee33db7","toSide":"left","color":"6"},
-		{"id":"2cf2f7edc894b399","fromNode":"4d24095385cf7439","fromSide":"right","toNode":"6b3eed4c84005345","toSide":"left","color":"#fb00ff"},
-		{"id":"f914c4ca81d83d85","fromNode":"467235d8b35971be","fromSide":"right","toNode":"6b3eed4c84005345","toSide":"left","color":"#a4feaa"},
-		{"id":"17b635a72b20699f","fromNode":"a0a44ef9bcfde230","fromSide":"right","toNode":"02efa575b3469fd0","toSide":"left","color":"1"},
-		{"id":"8cfdde1b7a22074d","fromNode":"02efa575b3469fd0","fromSide":"right","toNode":"3e73c87780536709","toSide":"left","color":"1"},
-		{"id":"75a54a951130b896","fromNode":"85044daca2d56470","fromSide":"right","toNode":"21f609a03e878d8b","toSide":"left","color":"1"},
-		{"id":"aa26a5cb140cafcf","fromNode":"21f609a03e878d8b","fromSide":"right","toNode":"9f70f958deaaeee0","toSide":"left","color":"1"},
-		{"id":"ff3c2b77563f8a31","fromNode":"3e73c87780536709","fromSide":"right","toNode":"85044daca2d56470","toSide":"left","color":"1"},
-		{"id":"44bd01d621fbe14c","fromNode":"40acdf1937251179","fromSide":"right","toNode":"df2a30487ad2ea83","toSide":"left","color":"2"},
-		{"id":"e6832e770d0b35b9","fromNode":"df2a30487ad2ea83","fromSide":"right","toNode":"57092b1ffa547298","toSide":"left","color":"2"},
-		{"id":"5042f9b3ca9299d5","fromNode":"ea356f3da52fe64f","fromSide":"right","toNode":"e7dbfa9155d6abd8","toSide":"left","color":"2"},
-		{"id":"4cb56dbb43c0423b","fromNode":"57092b1ffa547298","fromSide":"right","toNode":"ea356f3da52fe64f","toSide":"left","color":"2"},
-		{"id":"2312d3ac4211a4b5","fromNode":"d4cdf521367bd23d","fromSide":"right","toNode":"acdf4bab47185290","toSide":"left"},
-		{"id":"9be334f44f03d046","fromNode":"acdf4bab47185290","fromSide":"right","toNode":"d7f94c11251f0291","toSide":"left"},
-		{"id":"841c5e4d26967d4c","fromNode":"cadd7f93afa56b20","fromSide":"right","toNode":"d7f94c11251f0291","toSide":"left"},
-		{"id":"09a801fcaba09fbd","fromNode":"57882ac67a8c0251","fromSide":"right","toNode":"d7f94c11251f0291","toSide":"left"},
-		{"id":"d0ac2474c2a289c3","fromNode":"f18ba6e634b1d964","fromSide":"right","toNode":"439fadb666c4520b","toSide":"left"},
-		{"id":"d02b730b39eeff1c","fromNode":"439fadb666c4520b","fromSide":"right","toNode":"9499bfbf149766b9","toSide":"left"},
-		{"id":"d3d71239f61e477d","fromNode":"d7f94c11251f0291","fromSide":"right","toNode":"f18ba6e634b1d964","toSide":"left"},
-		{"id":"b86e6f21c8e8dac8","fromNode":"9499bfbf149766b9","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"74dec5f87fc2836b","fromNode":"3c3627b2ba2d0307","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"8b13a27ce3509563","fromNode":"9a5f44c459731f56","fromSide":"right","toNode":"425adbd24713428d","toSide":"left"},
-		{"id":"5c726484c4755fb2","fromNode":"9dc3964bf417ed8b","fromSide":"right","toNode":"f6945e321c5adaa2","toSide":"left"},
-		{"id":"ddcfebc2986cbf8d","fromNode":"f6945e321c5adaa2","fromSide":"right","toNode":"7fa589b0adc35057","toSide":"left"},
-		{"id":"e0c85e5fd096deb2","fromNode":"7fa589b0adc35057","fromSide":"right","toNode":"8ce7613ab214cfc1","toSide":"left"},
-		{"id":"b11510b20e510348","fromNode":"8ce7613ab214cfc1","fromSide":"right","toNode":"71bdb21767ccd82c","toSide":"left"},
-		{"id":"5cb4d63531322cff","fromNode":"71bdb21767ccd82c","fromSide":"right","toNode":"ff37acd5c34a8c02","toSide":"left"},
-		{"id":"8f8914d613325012","fromNode":"ae813589b9140c72","fromSide":"right","toNode":"9dc3964bf417ed8b","toSide":"left"}
-	]
+  "nodes": [
+    {
+      "id": "8d6ba67e799bb7ff",
+      "type": "group",
+      "x": -3200,
+      "y": -3400,
+      "width": 8200,
+      "height": 580,
+      "color": "1",
+      "label": "Story Set 1"
+    },
+    {
+      "id": "705fe2a7e1355255",
+      "type": "group",
+      "x": -1960,
+      "y": -2680,
+      "width": 6071,
+      "height": 736,
+      "color": "#5c77ff",
+      "label": "Story Set 2"
+    },
+    {
+      "id": "bb5f59ec2b33fe57",
+      "x": -2840,
+      "y": -4080,
+      "width": 7060,
+      "height": 534,
+      "color": "#ffffff",
+      "type": "group",
+      "label": "Mercenary Story Set"
+    },
+    {
+      "id": "b896362c4a40db5e",
+      "type": "group",
+      "x": -2840,
+      "y": -1080,
+      "width": 7340,
+      "height": 440,
+      "color": "#fe90f5",
+      "label": "Story Set 4"
+    },
+    {
+      "id": "93b1c43d25d16241",
+      "type": "group",
+      "x": -3300,
+      "y": -520,
+      "width": 3340,
+      "height": 840,
+      "color": "4",
+      "label": "Misc. Story Set"
+    },
+    {
+      "id": "d35999e2d8d215ad",
+      "type": "group",
+      "x": -3000,
+      "y": -1800,
+      "width": 5260,
+      "height": 480,
+      "color": "#9c39fe",
+      "label": "Story Set 3"
+    },
+    {
+      "id": "667b1ccf33ef29a2",
+      "type": "group",
+      "x": -2180,
+      "y": 380,
+      "width": 3875,
+      "height": 560,
+      "color": "2",
+      "label": "Story Set 5+.5"
+    },
+    {
+      "id": "2358782bf273cb07",
+      "type": "group",
+      "x": -2580,
+      "y": 1120,
+      "width": 3880,
+      "height": 399,
+      "color": "1",
+      "label": "Story Set 6"
+    },
+    {
+      "id": "98cbbec2777ee728",
+      "type": "group",
+      "x": -8160,
+      "y": 2880,
+      "width": 3900,
+      "height": 380,
+      "color": "#ffffff",
+      "label": "Lead Researcher Backstory"
+    },
+    {
+      "id": "36349f43b1fe2161",
+      "type": "group",
+      "x": -3920,
+      "y": -3180,
+      "width": 300,
+      "height": 4780,
+      "color": "#ffffff",
+      "label": "Chromatics"
+    },
+    {
+      "id": "d8fe14d9c7b02362",
+      "type": "group",
+      "x": -4760,
+      "y": -4040,
+      "width": 340,
+      "height": 1420,
+      "color": "#ffffff",
+      "label": "Mercenaries"
+    },
+    {
+      "id": "d6d506c76915c7a7",
+      "type": "group",
+      "x": -5240,
+      "y": -3152,
+      "width": 340,
+      "height": 412,
+      "color": "#ffffff",
+      "label": "Mercenary Groups"
+    },
+    {
+      "id": "40779c8abfa80425",
+      "type": "text",
+      "text": "Cyn and Raine bump into each other at Ex's house on the night Raine decides to steal the coworker's belongings back, Raine blackmails Cyn to avoid getting in direct trouble with the firm",
+      "x": -940,
+      "y": -2307,
+      "width": 500,
+      "height": 200
+    },
+    {
+      "id": "3e73c87780536709",
+      "type": "text",
+      "text": "Jess begins to find ways to blamelessly/inconspicuously harm people around her (schoolmates, family, friends) while progressively turning to harsher forms of torment",
+      "x": -560,
+      "y": -3360,
+      "width": 720,
+      "height": 140
+    },
+    {
+      "id": "425adbd24713428d",
+      "type": "text",
+      "text": "Dev leaves work for the day, encountering a group of mafia members that are in the middle beating up his boyfriend, then fends them off even as it's too late to save said boyfriend",
+      "x": 20,
+      "y": -3060,
+      "width": 472,
+      "height": 220
+    },
+    {
+      "id": "3e4aa2b398193133",
+      "type": "text",
+      "text": "Syl becomes a mentor for purple agency",
+      "x": 300,
+      "y": -1660,
+      "width": 297,
+      "height": 98
+    },
+    {
+      "id": "de33ad95d15f4ed4",
+      "type": "text",
+      "text": "Syl and Star begin practicing together",
+      "x": 40,
+      "y": -1520,
+      "width": 270,
+      "height": 100
+    },
+    {
+      "id": "c59aea4a1161c240",
+      "type": "text",
+      "text": "Raine agrees to steal back belongings of a coworker from their ex's house",
+      "x": -1360,
+      "y": -2160,
+      "width": 360,
+      "height": 140
+    },
+    {
+      "id": "b96694382517a7c3",
+      "type": "text",
+      "text": "[[Seth]]",
+      "x": -3900,
+      "y": -960,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "60d0eaf5a8f4081f",
+      "type": "text",
+      "text": "[[Star]]",
+      "x": -3900,
+      "y": -1459,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "858433aad3e257db",
+      "type": "text",
+      "text": "[[Syl]]",
+      "x": -3900,
+      "y": -1640,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "da5e29d370d716fb",
+      "type": "text",
+      "text": "Meet together in law firm, very combative/chaotic rivalry",
+      "x": -1920,
+      "y": -2240,
+      "width": 340,
+      "height": 120
+    },
+    {
+      "id": "b58e7c461611dc26",
+      "type": "text",
+      "text": "[[Raine]]",
+      "x": -3900,
+      "y": -2220,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6951534d541ebe2b",
+      "type": "text",
+      "text": "Cyn develops a romantic relationship with a coworker's ex, arrange a meetup in Ex's house",
+      "x": -1460,
+      "y": -2340,
+      "width": 400,
+      "height": 140
+    },
+    {
+      "id": "02efa575b3469fd0",
+      "type": "text",
+      "text": "Jess begins to develop a sociopathic personality, and starts learning how to present herself as an empathetic person",
+      "x": -2600,
+      "y": -3320,
+      "width": 463,
+      "height": 138
+    },
+    {
+      "id": "e6d2b55e2ccccc19",
+      "type": "text",
+      "text": "Cyn, Jay and Dusk develop a partnership for taking on missions together",
+      "x": 3500,
+      "y": -1460,
+      "width": 351,
+      "height": 143
+    },
+    {
+      "id": "70cbab60bc96926b",
+      "type": "text",
+      "text": "Raine becomes much more recognized in the duel betting scene in blue agency, making most of her points through winning station-held tournaments",
+      "x": 3460,
+      "y": -2100,
+      "width": 631,
+      "height": 136
+    },
+    {
+      "id": "3478a1fa5fee84c3",
+      "type": "text",
+      "text": "Cole finally leaves the syndicate after a member that hates Cole takes control of the syndicate",
+      "x": 3620,
+      "y": -980,
+      "width": 380,
+      "height": 140
+    },
+    {
+      "id": "3afeb8d066ed359a",
+      "type": "text",
+      "text": "Cole becomes a Chromatic",
+      "x": 4160,
+      "y": -940,
+      "width": 320,
+      "height": 70
+    },
+    {
+      "id": "ff37acd5c34a8c02",
+      "type": "text",
+      "text": "# Starting Point\n XX/XX/2525 ",
+      "x": 5920,
+      "y": -1120,
+      "width": 300,
+      "height": 760
+    },
+    {
+      "id": "cee2f08ca189126e",
+      "type": "text",
+      "text": "[[Dusk Dev Hangout Day Comic]]",
+      "x": 6310,
+      "y": -840,
+      "width": 420,
+      "height": 60
+    },
+    {
+      "id": "19ac17471dbae90c",
+      "type": "text",
+      "text": "[[A Duel Through Thin Air]]",
+      "x": 6310,
+      "y": -771,
+      "width": 347,
+      "height": 60
+    },
+    {
+      "id": "3c7c795f0921709b",
+      "type": "text",
+      "text": "[[A Night's Window]]",
+      "x": 6310,
+      "y": -700,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "71c0246aabcd4c00",
+      "type": "text",
+      "text": "[[Silver Path]]",
+      "x": 6310,
+      "y": -630,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "92fae1acf8e608b0",
+      "type": "text",
+      "text": "Ex starts searching for Raine, find out she's reported as dead and blames Chromatics org for killing her, starts targeting and harming Chromatics org",
+      "x": 2940,
+      "y": -2500,
+      "width": 412,
+      "height": 220
+    },
+    {
+      "id": "76118d5b998f83e2",
+      "type": "text",
+      "text": "Raine and Dusk develop small crushes for each other",
+      "x": 4260,
+      "y": -1460,
+      "width": 340,
+      "height": 100
+    },
+    {
+      "id": "71c16f46b4930fa0",
+      "type": "text",
+      "text": "Cyn and Raine meet in blue agency, they develop another combative rivalry",
+      "x": 2980,
+      "y": -2220,
+      "width": 368,
+      "height": 120
+    },
+    {
+      "id": "e5ed312f9f060dd2",
+      "type": "text",
+      "text": "Ex designated as a target by Chromatics org",
+      "x": 3440,
+      "y": -2440,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "c2d232b6bf85895e",
+      "type": "text",
+      "text": "Cyn forms and breaks more romantic relationships with two other blue Chromatics",
+      "x": 2960,
+      "y": -2640,
+      "width": 360,
+      "height": 120
+    },
+    {
+      "id": "406bab0cfefc34bd",
+      "type": "text",
+      "text": "Cyn and Dev form a romantic relationship",
+      "x": 3480,
+      "y": -2800,
+      "width": 326,
+      "height": 83
+    },
+    {
+      "id": "a4653fa75c3bfef5",
+      "type": "text",
+      "text": "Dev becomes a Chromatic, hoping for another shot at staying alive without the mafia knowing where he is, alongside the chance to take down the mafia once and for all now that he's a more capable fighter",
+      "x": 2660,
+      "y": -3060,
+      "width": 500,
+      "height": 210
+    },
+    {
+      "id": "21f609a03e878d8b",
+      "type": "text",
+      "text": "Jess discovers the [[Chromatic Organization]] and trains herself to complete the application exams",
+      "x": 2800,
+      "y": -3260,
+      "width": 410,
+      "height": 131
+    },
+    {
+      "id": "9f70f958deaaeee0",
+      "type": "text",
+      "text": "Jess becomes a Chromatic",
+      "x": 3300,
+      "y": -3160,
+      "width": 320,
+      "height": 70
+    },
+    {
+      "id": "34ec2d83e3babc92",
+      "type": "text",
+      "text": "Cyn becomes a Chromatic",
+      "x": 2320,
+      "y": -2380,
+      "width": 267,
+      "height": 100
+    },
+    {
+      "id": "d1c297eb02879170",
+      "type": "text",
+      "text": "Raine becomes a Chromatic",
+      "x": 2340,
+      "y": -2160,
+      "width": 267,
+      "height": 100
+    },
+    {
+      "id": "24e12bfb8eab3513",
+      "type": "text",
+      "text": "Jess and Dev meet again in a brief fight, then reunite",
+      "x": 4220,
+      "y": -3020,
+      "width": 300,
+      "height": 140
+    },
+    {
+      "id": "349a14ceaccbe119",
+      "type": "text",
+      "text": "Jess and Dev meet up multiple times in the following months in secret to catch up with each other",
+      "x": 4560,
+      "y": -3020,
+      "width": 400,
+      "height": 140
+    },
+    {
+      "id": "85044daca2d56470",
+      "type": "text",
+      "text": "Jess kills somebody for the first time, and seeks for more rushes of emotion that killing others gives her",
+      "x": 2180,
+      "y": -3300,
+      "width": 425,
+      "height": 130
+    },
+    {
+      "id": "d780b7686d0d477e",
+      "type": "text",
+      "text": "Dev is on the run from both the mafia and law enforcement for his past violence against mafia members who tried to kill him",
+      "x": 1940,
+      "y": -3040,
+      "width": 460,
+      "height": 160
+    },
+    {
+      "id": "3d41a32004a36de8",
+      "type": "text",
+      "text": "Mafia ends up targeting Dev for killing some of the gang members that targeted his bf, and the mafia starts tracking Dev down",
+      "x": 660,
+      "y": -3060,
+      "width": 440,
+      "height": 178
+    },
+    {
+      "id": "685876d07f8e6884",
+      "type": "text",
+      "text": "After Dev keeps getting into encounters that end up killing more mafia members, the mafia decides to blow up Dev's house (though Dev was away on some vacation while that happened) which makes Dev perpetually paranoid for his own safety ",
+      "x": 1200,
+      "y": -3060,
+      "width": 580,
+      "height": 200
+    },
+    {
+      "id": "5a325bec81b0748d",
+      "type": "text",
+      "text": "Raine and Ex develop romantic relationship",
+      "x": 1160,
+      "y": -2160,
+      "width": 309,
+      "height": 100
+    },
+    {
+      "id": "3950036765193e1c",
+      "type": "text",
+      "text": "Cyn fails in many of her other endeavors to pursue a long-term career",
+      "x": 1500,
+      "y": -2400,
+      "width": 460,
+      "height": 100
+    },
+    {
+      "id": "54dd94a5cc9f7d59",
+      "type": "text",
+      "text": "Raine and Ex steal the stuff together successfully, leading into longer-term partnership of breaking/entering and stealing from people for underground contracts",
+      "x": 640,
+      "y": -2220,
+      "width": 480,
+      "height": 220
+    },
+    {
+      "id": "801d599fa7f96374",
+      "type": "text",
+      "text": "Cyn gets fired from law firm eventually",
+      "x": 900,
+      "y": -2400,
+      "width": 292,
+      "height": 91
+    },
+    {
+      "id": "92bbe370415a3a64",
+      "type": "text",
+      "text": "Jay and Dusk meet together, become close friends",
+      "x": 1380,
+      "y": 560,
+      "width": 295,
+      "height": 137
+    },
+    {
+      "id": "5578a384ede8d44b",
+      "type": "text",
+      "text": "Roy joins the Cards team to replace a killed member",
+      "x": 440,
+      "y": 1280,
+      "width": 320,
+      "height": 80
+    },
+    {
+      "id": "06e80dc9234f725d",
+      "type": "text",
+      "text": "Jack joins the Cards team to replace another killed member",
+      "x": 960,
+      "y": 1320,
+      "width": 320,
+      "height": 120
+    },
+    {
+      "id": "c52887ecb580827a",
+      "type": "text",
+      "text": "Jay becomes a Chromatic",
+      "x": 920,
+      "y": 480,
+      "width": 307,
+      "height": 50
+    },
+    {
+      "id": "36dd7c6c6e1b0e32",
+      "type": "text",
+      "text": "Syl starts mentoring Seth",
+      "x": 1180,
+      "y": -1580,
+      "width": 302,
+      "height": 62
+    },
+    {
+      "id": "46f2c779a6db0ea8",
+      "type": "text",
+      "text": "Syl, Star and Seth start practicing together due to tighter mission difficulty/deadlines as they reach higher ranks, and occasionally take on missions together",
+      "x": 1740,
+      "y": -1580,
+      "width": 480,
+      "height": 180
+    },
+    {
+      "id": "b0ffd8b52f4a54fa",
+      "type": "text",
+      "text": "Raine leaves law firm",
+      "x": 1540,
+      "y": -2140,
+      "width": 278,
+      "height": 58
+    },
+    {
+      "id": "bbb361df4104c132",
+      "type": "text",
+      "text": "Raine gets attention of Chromatic organization after gaining notoriety, Chromatics org kidnaps Raine to have her work for them",
+      "x": 1880,
+      "y": -2200,
+      "width": 411,
+      "height": 180
+    },
+    {
+      "id": "98f12d79633eed56",
+      "type": "text",
+      "text": "Cyn gets in trouble with Ex after Raine frames Cyn as the one who broke into the house, Cyn and ex break up",
+      "x": 160,
+      "y": -2420,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "a8cd5a28cbc1c53e",
+      "type": "text",
+      "text": "Ex asks Raine to go steal the stuff back, claiming that it was his, not knowing she was the one who stole it from him",
+      "x": 180,
+      "y": -2200,
+      "width": 389,
+      "height": 180
+    },
+    {
+      "id": "23d542904c23821b",
+      "type": "text",
+      "text": "[[Chromatic Station|Chromatic Stations]] develop over time, Chromatic operations turn international",
+      "x": -4680,
+      "y": 2913,
+      "width": 340,
+      "height": 155
+    },
+    {
+      "id": "90a2fe46c61484f1",
+      "type": "text",
+      "text": "Researcher signs deal with [[International Government]], formally making the [[Chromatic Organization]] a much bigger entity",
+      "x": -5100,
+      "y": 2913,
+      "width": 400,
+      "height": 155
+    },
+    {
+      "id": "ee6936dacfbe1c75",
+      "type": "text",
+      "text": "Finds an underground group of assassins willing to try the developed [[Serums]], said group becomes extremely successful",
+      "x": -5880,
+      "y": 2901,
+      "width": 357,
+      "height": 180
+    },
+    {
+      "id": "7945ed644b7bd3f9",
+      "type": "text",
+      "text": "Kills his division, steals replicable copies of confidential research, destroys lab and traces of new research, goes on the run",
+      "x": -6340,
+      "y": 2900,
+      "width": 395,
+      "height": 180
+    },
+    {
+      "id": "983b3d59181767c2",
+      "type": "text",
+      "text": "Government catches onto the underground group, realizes the former lead researcher is in charge of the group",
+      "x": -5480,
+      "y": 2900,
+      "width": 360,
+      "height": 160
+    },
+    {
+      "id": "2e21ec151d24de7d",
+      "type": "text",
+      "text": "Ace takes on a very passionate yet unsuccessful magician career",
+      "x": -2560,
+      "y": 1140,
+      "width": 407,
+      "height": 83
+    },
+    {
+      "id": "9ef02ef99c3d0f2f",
+      "type": "text",
+      "text": "Jay starts a DJing/producing side-gig, develops into a somewhat maintainable job",
+      "x": -2160,
+      "y": 440,
+      "width": 380,
+      "height": 134
+    },
+    {
+      "id": "ac80c108a897ada0",
+      "type": "text",
+      "text": "Eve and Dawn go missing in public eye, then both are reported as dead",
+      "x": -1500,
+      "y": 780,
+      "width": 320,
+      "height": 120
+    },
+    {
+      "id": "22fbeab1555f77e1",
+      "type": "text",
+      "text": "Roy becomes a Chromatic",
+      "x": -1560,
+      "y": 1360,
+      "width": 320,
+      "height": 59
+    },
+    {
+      "id": "57092b1ffa547298",
+      "type": "text",
+      "text": "Kade encounters some of the criminal underworld as he performs errands and deals that benefit him and the club",
+      "x": -2800,
+      "y": 40,
+      "width": 420,
+      "height": 160
+    },
+    {
+      "id": "b560fbf7be5bb570",
+      "type": "text",
+      "text": "Finds out/suspects that his experiments with Chroma are seen by other division team members",
+      "x": -6780,
+      "y": 2922,
+      "width": 400,
+      "height": 138
+    },
+    {
+      "id": "9d18d8019638de7d",
+      "type": "text",
+      "text": "[[Lead Researcher]]",
+      "x": -8500,
+      "y": 2960,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "9835fe6359df51a4",
+      "type": "text",
+      "text": "Promoted to Head of a Biotech Division",
+      "x": -7400,
+      "y": 2945,
+      "width": 260,
+      "height": 93
+    },
+    {
+      "id": "961bc6b631edfa94",
+      "type": "text",
+      "text": "Begins researching vision and [[Chroma]] independently",
+      "x": -7800,
+      "y": 3121,
+      "width": 340,
+      "height": 99
+    },
+    {
+      "id": "a0e51edf8debbcd2",
+      "type": "text",
+      "text": "Joins [[International Government]] Research Team",
+      "x": -8140,
+      "y": 2920,
+      "width": 254,
+      "height": 140
+    },
+    {
+      "id": "05bff72a59844ac1",
+      "type": "text",
+      "text": "Discovers the 6 forms of Chroma",
+      "x": -7080,
+      "y": 2940,
+      "width": 250,
+      "height": 100
+    },
+    {
+      "id": "c901524d009aede4",
+      "type": "text",
+      "text": "[[Jay]]",
+      "x": -3900,
+      "y": 521,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "d42a272a36230930",
+      "type": "text",
+      "text": "[[Eve]]",
+      "x": -3900,
+      "y": 875,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "38d50d292a52377e",
+      "type": "text",
+      "text": "[[Clove]]",
+      "x": -3900,
+      "y": 1261,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "650cc267ba116af6",
+      "type": "text",
+      "text": "Eve becomes a Chromatic",
+      "x": -1100,
+      "y": 840,
+      "width": 340,
+      "height": 60
+    },
+    {
+      "id": "306f815edb222b0e",
+      "type": "text",
+      "text": "Jack becomes a Chromatic",
+      "x": -760,
+      "y": 1440,
+      "width": 320,
+      "height": 59
+    },
+    {
+      "id": "6044fd007b94093a",
+      "type": "text",
+      "text": "Dawn becomes a Chromatic",
+      "x": -1100,
+      "y": 740,
+      "width": 340,
+      "height": 60
+    },
+    {
+      "id": "c6da4384cb5add15",
+      "type": "text",
+      "text": "Kat becomes a Chromatic",
+      "x": -1340,
+      "y": -98,
+      "width": 327,
+      "height": 60
+    },
+    {
+      "id": "40acdf1937251179",
+      "type": "text",
+      "text": "[[Kade]]",
+      "x": -3880,
+      "y": 80,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "06204cd23dfb7d16",
+      "type": "text",
+      "text": "[[Roy]]",
+      "x": -3900,
+      "y": 1362,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "87fb780bf93cf196",
+      "type": "text",
+      "text": "[[Jack]]",
+      "x": -3900,
+      "y": 1462,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "371a7e60add0e834",
+      "type": "text",
+      "text": "[[Dusk]]",
+      "x": -3900,
+      "y": 701,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4da8528e0460801d",
+      "type": "text",
+      "text": "[[Dawn]]",
+      "x": -3900,
+      "y": 801,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "0cb97fdf0b66fc38",
+      "type": "text",
+      "text": "[[Ace]]",
+      "x": -3900,
+      "y": 1162,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "248600fc8f76086c",
+      "type": "text",
+      "text": "Venn becomes a Chromatic",
+      "x": -1340,
+      "y": -220,
+      "width": 327,
+      "height": 60
+    },
+    {
+      "id": "e7dbfa9155d6abd8",
+      "type": "text",
+      "text": "Kade becomes a Chromatic",
+      "x": -1740,
+      "y": 80,
+      "width": 340,
+      "height": 70
+    },
+    {
+      "id": "df2a30487ad2ea83",
+      "type": "text",
+      "text": "Kade gets close with a cabaret club owner, starts running the venue alongside the owner",
+      "x": -3240,
+      "y": 40,
+      "width": 377,
+      "height": 160
+    },
+    {
+      "id": "5a640cb51b265bd7",
+      "type": "text",
+      "text": "Ace becomes a Chromatic",
+      "x": -1360,
+      "y": 1160,
+      "width": 320,
+      "height": 59
+    },
+    {
+      "id": "ea1fca9dbf036ac9",
+      "type": "text",
+      "text": "Clove becomes a Chromatic",
+      "x": -1200,
+      "y": 1264,
+      "width": 340,
+      "height": 59
+    },
+    {
+      "id": "f8ac5716447ffa47",
+      "type": "text",
+      "text": "[[Venn]]",
+      "x": -3900,
+      "y": -240,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4d24095385cf7439",
+      "type": "text",
+      "text": "[[Cole]]",
+      "x": -3900,
+      "y": -759,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "2e0a9a8d5d4b8d8c",
+      "type": "text",
+      "text": "[[Claire]]",
+      "x": -3900,
+      "y": -360,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "467235d8b35971be",
+      "type": "text",
+      "text": "[[Kat]]",
+      "x": -3900,
+      "y": -120,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4a8e35767ddb975b",
+      "type": "text",
+      "text": "Chromatics org target Jay for killing the chromatic, and the chromatic that gets sent out to kill Jay ends up recruiting him instead",
+      "x": 160,
+      "y": 420,
+      "width": 420,
+      "height": 180
+    },
+    {
+      "id": "35d9774d8979fbb0",
+      "type": "text",
+      "text": "Dusk becomes a Chromatic in hopes of getting revenge against crime groups he thinks are responsible for twins' deaths",
+      "x": -60,
+      "y": 620,
+      "width": 380,
+      "height": 160
+    },
+    {
+      "id": "92026e63b9af7a28",
+      "type": "text",
+      "text": "Seth becomes a Chromatic to deal with underground crime directly",
+      "x": -60,
+      "y": -1000,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "2ae7ec8fb9dd5eb3",
+      "type": "text",
+      "text": "Seth and mercenary Cole get into an fight during a mission in Cole's syndicate headquarters, Cole wins, but spares Seth",
+      "x": 440,
+      "y": -880,
+      "width": 480,
+      "height": 140
+    },
+    {
+      "id": "b5645568225400b0",
+      "type": "text",
+      "text": "Claire becomes a Chromatic",
+      "x": -1120,
+      "y": -359,
+      "width": 347,
+      "height": 60
+    },
+    {
+      "id": "3c3627b2ba2d0307",
+      "type": "text",
+      "text": "Kade continuously takes on multiple concurrent romantic relationships with various Chromatics in his frequently visited stations",
+      "x": -1220,
+      "y": 40,
+      "width": 540,
+      "height": 140
+    },
+    {
+      "id": "ea356f3da52fe64f",
+      "type": "text",
+      "text": "Kade gets much more personally involved with the criminal underworld, then discovers the [[Chromatic Organization]] as a way out of his debts and obligations",
+      "x": -2320,
+      "y": 20,
+      "width": 460,
+      "height": 200
+    },
+    {
+      "id": "9628a4cb8ee33db7",
+      "type": "text",
+      "text": "Seth becomes a police officer",
+      "x": -1600,
+      "y": -980,
+      "width": 288,
+      "height": 85
+    },
+    {
+      "id": "179dea5a430a6118",
+      "type": "text",
+      "text": "Cole becomes a grunt of a mercenary syndicate",
+      "x": -2820,
+      "y": -820,
+      "width": 551,
+      "height": 65
+    },
+    {
+      "id": "6b3eed4c84005345",
+      "type": "text",
+      "text": "Cole and Kat start interacting with each other on social media sites under anonymous profiles",
+      "x": -3240,
+      "y": -480,
+      "width": 436,
+      "height": 117
+    },
+    {
+      "id": "17c95a05cac72037",
+      "type": "text",
+      "text": "Seth gets into multiple encounters with deep crime orgs and corruption in police orgs, makes him disillusioned with serving justice for the public",
+      "x": -660,
+      "y": -1060,
+      "width": 390,
+      "height": 200
+    },
+    {
+      "id": "7555250f8eecb3b6",
+      "type": "text",
+      "text": "Chromatic mission happens near Jay's apartment, and a chromatic missteps into Jay's room, causing him to fight back and he inadvertently kills the chromatic.",
+      "x": -400,
+      "y": 420,
+      "width": 500,
+      "height": 180
+    },
+    {
+      "id": "b26af04a87a25642",
+      "type": "text",
+      "text": "Ace forms the Cards team with Clove and two other chromatics",
+      "x": -280,
+      "y": 1160,
+      "width": 316,
+      "height": 115
+    },
+    {
+      "id": "518ef7a917706573",
+      "type": "text",
+      "text": "Kat and Venn meet together, become close friends and partners in missions",
+      "x": -780,
+      "y": -220,
+      "width": 295,
+      "height": 180
+    },
+    {
+      "id": "1109af9c058884a0",
+      "type": "text",
+      "text": "Cole ranks up within the syndicate by taking down a bunch of Chromatics and doing various jobs for the org, though multiple changes in leadership within the syndicate make his status and relationships within the group unstable",
+      "x": -1580,
+      "y": -860,
+      "width": 620,
+      "height": 200
+    },
+    {
+      "id": "c31c6d5420f1157d",
+      "type": "text",
+      "text": "Star's double starts taking fewer roles that require Star to act as a double, so Star begins to rely on his trading ties to stay afloat",
+      "x": -2040,
+      "y": -1500,
+      "width": 528,
+      "height": 140
+    },
+    {
+      "id": "befc526dfa5ca786",
+      "type": "text",
+      "text": "Star begins to gain ties with crime groups to make extra money off selling illicit drugs to studio staff/actors",
+      "x": -2540,
+      "y": -1500,
+      "width": 453,
+      "height": 137
+    },
+    {
+      "id": "5211e1fdc855f6d4",
+      "type": "text",
+      "text": "Star becomes a Chromatic",
+      "x": -520,
+      "y": -1460,
+      "width": 327,
+      "height": 60
+    },
+    {
+      "id": "cf6d5103aa28555b",
+      "type": "text",
+      "text": "Syl tracks down the targeted student to help them fend off of any other Chromatics following them, but the student has already turned resentful towards Chromatics as a whole, forcing Syl to kill them to avoid getting in trouble with her agency",
+      "x": -520,
+      "y": -1780,
+      "width": 531,
+      "height": 242
+    },
+    {
+      "id": "74a182ac753e9632",
+      "type": "text",
+      "text": "Actor gives Star ultimatum on either working in the studio or holding ties with his trading network, since the actor is implicated in Star's activities",
+      "x": -1420,
+      "y": -1520,
+      "width": 440,
+      "height": 180
+    },
+    {
+      "id": "3702b06d85ce88b5",
+      "type": "text",
+      "text": "Star takes on a stunt double role for a famous movie actor",
+      "x": -2980,
+      "y": -1480,
+      "width": 347,
+      "height": 100
+    },
+    {
+      "id": "aca26a25234d55d1",
+      "type": "text",
+      "text": "Star goes missing to avoid confronting actor",
+      "x": -920,
+      "y": -1480,
+      "width": 299,
+      "height": 100
+    },
+    {
+      "id": "4954790d8c770c68",
+      "type": "text",
+      "text": "Syl finds one of her students getting beaten up by a Chromatic, fights back and unintentionally kills the Chromatic",
+      "x": -1520,
+      "y": -1660,
+      "width": 440,
+      "height": 120
+    },
+    {
+      "id": "ab34908eb71ff4fc",
+      "type": "text",
+      "text": "Syl takes on martial arts as a hobby/specialty skill",
+      "x": -2700,
+      "y": -1660,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "538955cca984743b",
+      "type": "text",
+      "text": "Syl begins teaching martial arts ",
+      "x": -2060,
+      "y": -1660,
+      "width": 281,
+      "height": 100
+    },
+    {
+      "id": "bb4dc98e9b1ea507",
+      "type": "text",
+      "text": "Syl turns herself into the police, but gets forced to become a Chromatic once the officials realize she killed a Chromatic",
+      "x": -1040,
+      "y": -1660,
+      "width": 460,
+      "height": 120
+    },
+    {
+      "id": "17b12eac3c2eee0d",
+      "type": "text",
+      "text": "Claire gathers a group of closer friends in Pink agency, they all eventually decide to keep going on missions together",
+      "x": -440,
+      "y": -400,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "1f9f803a8c345abf",
+      "type": "text",
+      "text": "Raine runs before Ex gets to see her in the house at all, inevitably putting the blame for all the stolen stuff on Cyn",
+      "x": -360,
+      "y": -2300,
+      "width": 379,
+      "height": 173
+    },
+    {
+      "id": "c048a1d405b7a3b9",
+      "type": "text",
+      "text": "[[Cyn]]",
+      "x": -3900,
+      "y": -2400,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a0a44ef9bcfde230",
+      "type": "text",
+      "text": "[[Jess]]",
+      "x": -3900,
+      "y": -3140,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "9a5f44c459731f56",
+      "type": "text",
+      "text": "A Mafia-type Org",
+      "x": -5220,
+      "y": -3131,
+      "width": 250,
+      "height": 62
+    },
+    {
+      "id": "b1cc0db30b2cd42d",
+      "type": "text",
+      "text": "Cybercollective",
+      "x": -5220,
+      "y": -3028,
+      "width": 250,
+      "height": 62
+    },
+    {
+      "id": "01eb0413bbe96e30",
+      "type": "text",
+      "text": "Cole's former Syndicate",
+      "x": -5220,
+      "y": -2925,
+      "width": 300,
+      "height": 62
+    },
+    {
+      "id": "d4cdf521367bd23d",
+      "type": "text",
+      "text": "???",
+      "x": -5220,
+      "y": -2822,
+      "width": 250,
+      "height": 62
+    },
+    {
+      "id": "31faf6e3d4c20be7",
+      "type": "text",
+      "text": "Members without links ([[]]) have non-final names/terms to refer to them",
+      "x": -5220,
+      "y": -3431,
+      "width": 349,
+      "height": 145
+    },
+    {
+      "id": "d0cd17a056c1cc91",
+      "type": "text",
+      "text": "[[Dev]]",
+      "x": -3900,
+      "y": -2880,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "439fadb666c4520b",
+      "x": 2180,
+      "y": -3760,
+      "width": 460,
+      "height": 180,
+      "type": "text",
+      "text": "Chromatics begin to whittle away at the organization's other guards, leaving essentially just Amber and Jasper to fend off the organization's threats"
+    },
+    {
+      "id": "9499bfbf149766b9",
+      "type": "text",
+      "text": "Amber and Jasper are assigned to track down and kill any Chromatics they see to avoid any future threats to their organization",
+      "x": 2720,
+      "y": -3760,
+      "width": 426,
+      "height": 194
+    },
+    {
+      "id": "d7f94c11251f0291",
+      "x": -360,
+      "y": -3760,
+      "width": 440,
+      "height": 98,
+      "type": "text",
+      "text": "Amber and Jasper join the organization separately as bodyguards"
+    },
+    {
+      "id": "f18ba6e634b1d964",
+      "x": 1100,
+      "y": -3780,
+      "width": 460,
+      "height": 180,
+      "type": "text",
+      "text": "Chromatics begin targeting organization, Amber and Lucas manage to fend off against the first Chromatic's first mission against the org"
+    },
+    {
+      "id": "6a9dbaff76c2090d",
+      "type": "text",
+      "text": "Kade and Dawn form a romantic relationship",
+      "x": -420,
+      "y": 180,
+      "width": 374,
+      "height": 100
+    },
+    {
+      "id": "cadd7f93afa56b20",
+      "type": "text",
+      "text": "[[Amber]]",
+      "x": -4740,
+      "y": -3820,
+      "width": 250,
+      "height": 62
+    },
+    {
+      "id": "57882ac67a8c0251",
+      "type": "text",
+      "text": "[[Jasper]]",
+      "x": -4740,
+      "y": -3717,
+      "width": 250,
+      "height": 62
+    },
+    {
+      "id": "1bc932da184b70f9",
+      "type": "text",
+      "text": "# Story sets are largely isolated from one another \n# Reading every story set isn't necessary to read any given scenario that happens after Starting Point\n# Event placement across sets isn't comparable (events farther to the right in set X might not happen later than a further left event in set Y, etc.)\n",
+      "x": -3840,
+      "y": -4920,
+      "width": 1520,
+      "height": 658
+    },
+    {
+      "id": "acdf4bab47185290",
+      "x": -2820,
+      "y": -3660,
+      "width": 283,
+      "height": 92,
+      "type": "text",
+      "text": "{undecided name} Organization is formed"
+    },
+    {
+      "id": "ae813589b9140c72",
+      "type": "text",
+      "text": "[[Raven]]",
+      "x": -4740,
+      "y": -3980,
+      "width": 250,
+      "height": 62
+    },
+    {
+      "id": "a40e1c02d3f36d2f",
+      "type": "text",
+      "text": "Meet as school BFFs, then separate on their own paths",
+      "x": -3180,
+      "y": -3020,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "765f6641a950af1d",
+      "type": "text",
+      "text": "Raine's Partner-in-crime (Ex for now)",
+      "x": -4740,
+      "y": -2720,
+      "width": 300,
+      "height": 82
+    },
+    {
+      "id": "9dc3964bf417ed8b",
+      "x": -1680,
+      "y": -3960,
+      "width": 400,
+      "height": 120,
+      "type": "text",
+      "text": "Raven begins robbing graves and pawning off their findings to earn a substantial income"
+    },
+    {
+      "id": "8ce7613ab214cfc1",
+      "x": 3060,
+      "y": -4040,
+      "width": 660,
+      "height": 180,
+      "type": "text",
+      "text": "Raven begins investigating many other people who have mysteriously died/disappeared in hopes of finding out more about Chromatics, robs more graves that they suspect come from people who have turned into Chromatics"
+    },
+    {
+      "id": "7fa589b0adc35057",
+      "x": 2480,
+      "y": -4020,
+      "width": 540,
+      "height": 140,
+      "type": "text",
+      "text": "Raven returns to the grave to find a Chromatic visiting the grave, and gets into a confrontation that ends with Raven killing the Chromatic"
+    },
+    {
+      "id": "f6945e321c5adaa2",
+      "x": 1840,
+      "y": -4060,
+      "width": 580,
+      "height": 220,
+      "type": "text",
+      "text": "Raven finds a grave that is supposed to contain a buried body (which belongs to a currently operating Chromatic), yet they are surprised to find out that the body is completely missing from the grave's casket, and suspects the person is still alive"
+    },
+    {
+      "id": "71bdb21767ccd82c",
+      "x": 3760,
+      "y": -4040,
+      "width": 440,
+      "height": 180,
+      "type": "text",
+      "text": "Raven gets targeted by the Chromatics Org for killing the Chromatic he encountered, as well as interfering with Chromatic missions"
+    }
+  ],
+  "edges": [
+    {
+      "id": "227f4006c9e100de",
+      "fromNode": "ff37acd5c34a8c02",
+      "fromSide": "right",
+      "toNode": "19ac17471dbae90c",
+      "toSide": "left"
+    },
+    {
+      "id": "9adf33533f00f3ed",
+      "fromNode": "d4cdf521367bd23d",
+      "fromSide": "right",
+      "toNode": "cadd7f93afa56b20",
+      "toSide": "left"
+    },
+    {
+      "id": "f304855703d609bb",
+      "fromNode": "d4cdf521367bd23d",
+      "fromSide": "right",
+      "toNode": "57882ac67a8c0251",
+      "toSide": "left"
+    },
+    {
+      "id": "93969c80d96cea1d",
+      "fromNode": "9d18d8019638de7d",
+      "fromSide": "right",
+      "toNode": "a0e51edf8debbcd2",
+      "toSide": "left"
+    },
+    {
+      "id": "28710b13b3f5f178",
+      "fromNode": "a0e51edf8debbcd2",
+      "fromSide": "right",
+      "toNode": "9835fe6359df51a4",
+      "toSide": "left"
+    },
+    {
+      "id": "815b7a063e61bac9",
+      "fromNode": "a0e51edf8debbcd2",
+      "fromSide": "bottom",
+      "toNode": "961bc6b631edfa94",
+      "toSide": "left"
+    },
+    {
+      "id": "eac25a83445ad057",
+      "fromNode": "961bc6b631edfa94",
+      "fromSide": "right",
+      "toNode": "05bff72a59844ac1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "db78fac664e3c5a7",
+      "fromNode": "9835fe6359df51a4",
+      "fromSide": "right",
+      "toNode": "05bff72a59844ac1",
+      "toSide": "left"
+    },
+    {
+      "id": "019674bec7dec576",
+      "fromNode": "05bff72a59844ac1",
+      "fromSide": "right",
+      "toNode": "b560fbf7be5bb570",
+      "toSide": "left"
+    },
+    {
+      "id": "37834a0fcb030c85",
+      "fromNode": "b560fbf7be5bb570",
+      "fromSide": "right",
+      "toNode": "7945ed644b7bd3f9",
+      "toSide": "left"
+    },
+    {
+      "id": "ec72f58969bcbdd7",
+      "fromNode": "7945ed644b7bd3f9",
+      "fromSide": "right",
+      "toNode": "ee6936dacfbe1c75",
+      "toSide": "left"
+    },
+    {
+      "id": "c6058a921e3165ae",
+      "fromNode": "ee6936dacfbe1c75",
+      "fromSide": "right",
+      "toNode": "983b3d59181767c2",
+      "toSide": "left"
+    },
+    {
+      "id": "0bd26a1d21578965",
+      "fromNode": "983b3d59181767c2",
+      "fromSide": "right",
+      "toNode": "90a2fe46c61484f1",
+      "toSide": "left"
+    },
+    {
+      "id": "32a1eccb648caeab",
+      "fromNode": "90a2fe46c61484f1",
+      "fromSide": "right",
+      "toNode": "23d542904c23821b",
+      "toSide": "left"
+    },
+    {
+      "id": "4f384e6345001bb2",
+      "fromNode": "23d542904c23821b",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "135c0a08b83b723b",
+      "fromNode": "ff37acd5c34a8c02",
+      "fromSide": "right",
+      "toNode": "71c0246aabcd4c00",
+      "toSide": "left"
+    },
+    {
+      "id": "d34c914d1a215200",
+      "fromNode": "ff37acd5c34a8c02",
+      "fromSide": "right",
+      "toNode": "3c7c795f0921709b",
+      "toSide": "left"
+    },
+    {
+      "id": "7ae307c425593114",
+      "fromNode": "ff37acd5c34a8c02",
+      "fromSide": "right",
+      "toNode": "cee2f08ca189126e",
+      "toSide": "left"
+    },
+    {
+      "id": "e9255340a83b403a",
+      "fromNode": "c52887ecb580827a",
+      "fromSide": "right",
+      "toNode": "92bbe370415a3a64",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "bf766f7a869e3f09",
+      "fromNode": "35d9774d8979fbb0",
+      "fromSide": "right",
+      "toNode": "92bbe370415a3a64",
+      "toSide": "left",
+      "color": "#2a54fe"
+    },
+    {
+      "id": "fdf3a63d3ae95b24",
+      "fromNode": "c048a1d405b7a3b9",
+      "fromSide": "right",
+      "toNode": "da5e29d370d716fb",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "5abe21192a42885d",
+      "fromNode": "b58e7c461611dc26",
+      "fromSide": "right",
+      "toNode": "da5e29d370d716fb",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "d5c040bc55be07ff",
+      "fromNode": "b58e7c461611dc26",
+      "fromSide": "right",
+      "toNode": "c59aea4a1161c240",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "31af4e1b41a2d9f6",
+      "fromNode": "a0a44ef9bcfde230",
+      "fromSide": "right",
+      "toNode": "a40e1c02d3f36d2f",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "0abccd506f19cb04",
+      "fromNode": "d0cd17a056c1cc91",
+      "fromSide": "right",
+      "toNode": "a40e1c02d3f36d2f",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e188b258c6ae8f9b",
+      "fromNode": "9f70f958deaaeee0",
+      "fromSide": "right",
+      "toNode": "24e12bfb8eab3513",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "7fd2bda0cd803528",
+      "fromNode": "c048a1d405b7a3b9",
+      "fromSide": "right",
+      "toNode": "6951534d541ebe2b",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "c38fd1e9bdeab101",
+      "fromNode": "6951534d541ebe2b",
+      "fromSide": "right",
+      "toNode": "40779c8abfa80425",
+      "toSide": "left"
+    },
+    {
+      "id": "4fe9526177d1e8bf",
+      "fromNode": "c59aea4a1161c240",
+      "fromSide": "right",
+      "toNode": "40779c8abfa80425",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "e67ae6bc502434c4",
+      "fromNode": "248600fc8f76086c",
+      "fromSide": "right",
+      "toNode": "518ef7a917706573",
+      "toSide": "left",
+      "color": "#00b32d"
+    },
+    {
+      "id": "3b8ccfa32113f8c2",
+      "fromNode": "c6da4384cb5add15",
+      "fromSide": "right",
+      "toNode": "518ef7a917706573",
+      "toSide": "left",
+      "color": "#a4feaa"
+    },
+    {
+      "id": "a558d6a8fe59bd88",
+      "fromNode": "f8ac5716447ffa47",
+      "fromSide": "right",
+      "toNode": "248600fc8f76086c",
+      "toSide": "left",
+      "color": "#00b32d"
+    },
+    {
+      "id": "6e03b9ad165bb462",
+      "fromNode": "467235d8b35971be",
+      "fromSide": "right",
+      "toNode": "c6da4384cb5add15",
+      "toSide": "left",
+      "color": "#a4feaa"
+    },
+    {
+      "id": "a68e0dd5856a27f7",
+      "fromNode": "518ef7a917706573",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "76721de6de2c7141",
+      "fromNode": "24e12bfb8eab3513",
+      "fromSide": "right",
+      "toNode": "349a14ceaccbe119",
+      "toSide": "left"
+    },
+    {
+      "id": "58bed21fcbe5c6ce",
+      "fromNode": "349a14ceaccbe119",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "dde2c93ba1b6a27f",
+      "fromNode": "4da8528e0460801d",
+      "fromSide": "right",
+      "toNode": "ac80c108a897ada0",
+      "toSide": "left",
+      "color": "#fec686"
+    },
+    {
+      "id": "c8b1cc818f85804f",
+      "fromNode": "d42a272a36230930",
+      "fromSide": "right",
+      "toNode": "ac80c108a897ada0",
+      "toSide": "left",
+      "color": "#8f4c00"
+    },
+    {
+      "id": "0d67695a7fa4dbcc",
+      "fromNode": "ac80c108a897ada0",
+      "fromSide": "right",
+      "toNode": "35d9774d8979fbb0",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "d7f59b9c94eb5064",
+      "fromNode": "371a7e60add0e834",
+      "fromSide": "right",
+      "toNode": "35d9774d8979fbb0",
+      "toSide": "left",
+      "color": "#2a54fe"
+    },
+    {
+      "id": "167c0c7b9cfa8138",
+      "fromNode": "6951534d541ebe2b",
+      "fromSide": "right",
+      "toNode": "40779c8abfa80425",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "747f138af1c05df0",
+      "fromNode": "5a325bec81b0748d",
+      "fromSide": "right",
+      "toNode": "b0ffd8b52f4a54fa",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "ea03b87dcc207b13",
+      "fromNode": "b0ffd8b52f4a54fa",
+      "fromSide": "right",
+      "toNode": "bbb361df4104c132",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "a7700b48910d868b",
+      "fromNode": "bbb361df4104c132",
+      "fromSide": "right",
+      "toNode": "d1c297eb02879170",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "006f1bf8022a35e0",
+      "fromNode": "98f12d79633eed56",
+      "fromSide": "right",
+      "toNode": "801d599fa7f96374",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "57a0e0d7043a3005",
+      "fromNode": "3950036765193e1c",
+      "fromSide": "right",
+      "toNode": "34ec2d83e3babc92",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "94383574cbd08f72",
+      "fromNode": "a8cd5a28cbc1c53e",
+      "fromSide": "right",
+      "toNode": "54dd94a5cc9f7d59",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "a58e2be504e18064",
+      "fromNode": "54dd94a5cc9f7d59",
+      "fromSide": "right",
+      "toNode": "5a325bec81b0748d",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "0f08ac186fbb64ea",
+      "fromNode": "92fae1acf8e608b0",
+      "fromSide": "right",
+      "toNode": "e5ed312f9f060dd2",
+      "toSide": "left"
+    },
+    {
+      "id": "4ec12cdd5803a775",
+      "fromNode": "34ec2d83e3babc92",
+      "fromSide": "right",
+      "toNode": "71c16f46b4930fa0",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e4a01700539ca9b4",
+      "fromNode": "d1c297eb02879170",
+      "fromSide": "right",
+      "toNode": "71c16f46b4930fa0",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "e95432e972b83ae9",
+      "fromNode": "d1c297eb02879170",
+      "fromSide": "right",
+      "toNode": "76118d5b998f83e2",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "80bd886f844a1c23",
+      "fromNode": "35d9774d8979fbb0",
+      "fromSide": "right",
+      "toNode": "76118d5b998f83e2",
+      "toSide": "left",
+      "color": "#2a54fe"
+    },
+    {
+      "id": "01ad71f755c9fbe6",
+      "fromNode": "76118d5b998f83e2",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "11cd7d7ba05d90a2",
+      "fromNode": "34ec2d83e3babc92",
+      "fromSide": "right",
+      "toNode": "e6d2b55e2ccccc19",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "199882b0dd46e845",
+      "fromNode": "92bbe370415a3a64",
+      "fromSide": "right",
+      "toNode": "e6d2b55e2ccccc19",
+      "toSide": "left"
+    },
+    {
+      "id": "bd6a1652c1384656",
+      "fromNode": "34ec2d83e3babc92",
+      "fromSide": "right",
+      "toNode": "c2d232b6bf85895e",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "b5417314b616bf69",
+      "fromNode": "c2d232b6bf85895e",
+      "fromSide": "right",
+      "toNode": "406bab0cfefc34bd",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "d4f16743b48b2137",
+      "fromNode": "a4653fa75c3bfef5",
+      "fromSide": "right",
+      "toNode": "406bab0cfefc34bd",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "8d13983c6a51fed5",
+      "fromNode": "e6d2b55e2ccccc19",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "64961ceca0934888",
+      "fromNode": "d1c297eb02879170",
+      "fromSide": "right",
+      "toNode": "92fae1acf8e608b0",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "4e3e28be3f066703",
+      "fromNode": "e5ed312f9f060dd2",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "03bb94d6e140df8c",
+      "fromNode": "858433aad3e257db",
+      "fromSide": "right",
+      "toNode": "ab34908eb71ff4fc",
+      "toSide": "left",
+      "color": "#6c47ff"
+    },
+    {
+      "id": "e036ce939ac15dd0",
+      "fromNode": "538955cca984743b",
+      "fromSide": "right",
+      "toNode": "4954790d8c770c68",
+      "toSide": "left",
+      "color": "#6c47ff"
+    },
+    {
+      "id": "5f5a9cc7740efdf5",
+      "fromNode": "4954790d8c770c68",
+      "fromSide": "right",
+      "toNode": "bb4dc98e9b1ea507",
+      "toSide": "left",
+      "color": "#6c47ff"
+    },
+    {
+      "id": "69651da645a103fc",
+      "fromNode": "ab34908eb71ff4fc",
+      "fromSide": "right",
+      "toNode": "538955cca984743b",
+      "toSide": "left",
+      "color": "#6c47ff"
+    },
+    {
+      "id": "5f8219634baf5d25",
+      "fromNode": "9628a4cb8ee33db7",
+      "fromSide": "right",
+      "toNode": "17c95a05cac72037",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "74eae74e803d5838",
+      "fromNode": "17c95a05cac72037",
+      "fromSide": "right",
+      "toNode": "92026e63b9af7a28",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "017af77f9114f0e9",
+      "fromNode": "5211e1fdc855f6d4",
+      "fromSide": "right",
+      "toNode": "de33ad95d15f4ed4",
+      "toSide": "left",
+      "color": "#e6c7ff"
+    },
+    {
+      "id": "c9f8adaa170fa783",
+      "fromNode": "801d599fa7f96374",
+      "fromSide": "right",
+      "toNode": "3950036765193e1c",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "b8025a278488584c",
+      "fromNode": "3e4aa2b398193133",
+      "fromSide": "right",
+      "toNode": "36dd7c6c6e1b0e32",
+      "toSide": "left",
+      "color": "#6c47ff"
+    },
+    {
+      "id": "33bfba3e6840b94b",
+      "fromNode": "de33ad95d15f4ed4",
+      "fromSide": "right",
+      "toNode": "46f2c779a6db0ea8",
+      "toSide": "left",
+      "color": "#e6c7ff"
+    },
+    {
+      "id": "3cee233cc32a2d74",
+      "fromNode": "36dd7c6c6e1b0e32",
+      "fromSide": "right",
+      "toNode": "46f2c779a6db0ea8",
+      "toSide": "left",
+      "color": "#6c47ff"
+    },
+    {
+      "id": "29fb5232a9ec29d1",
+      "fromNode": "92026e63b9af7a28",
+      "fromSide": "right",
+      "toNode": "2ae7ec8fb9dd5eb3",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "7569930ef281e9ae",
+      "fromNode": "2ae7ec8fb9dd5eb3",
+      "fromSide": "right",
+      "toNode": "36dd7c6c6e1b0e32",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "1d35ac7ff2623de4",
+      "fromNode": "3702b06d85ce88b5",
+      "fromSide": "right",
+      "toNode": "befc526dfa5ca786",
+      "toSide": "left",
+      "color": "#e6c7ff"
+    },
+    {
+      "id": "13a97dca62f6c0cf",
+      "fromNode": "60d0eaf5a8f4081f",
+      "fromSide": "right",
+      "toNode": "3702b06d85ce88b5",
+      "toSide": "left",
+      "color": "#e6c7ff"
+    },
+    {
+      "id": "122c6ef23da2ec59",
+      "fromNode": "befc526dfa5ca786",
+      "fromSide": "right",
+      "toNode": "c31c6d5420f1157d",
+      "toSide": "left",
+      "color": "#e6c7ff"
+    },
+    {
+      "id": "b7340ad8a6124235",
+      "fromNode": "aca26a25234d55d1",
+      "fromSide": "right",
+      "toNode": "5211e1fdc855f6d4",
+      "toSide": "left",
+      "color": "#e6c7ff"
+    },
+    {
+      "id": "80958d52f54f89df",
+      "fromNode": "c31c6d5420f1157d",
+      "fromSide": "right",
+      "toNode": "74a182ac753e9632",
+      "toSide": "left",
+      "color": "#e6c7ff"
+    },
+    {
+      "id": "04237148e813a040",
+      "fromNode": "74a182ac753e9632",
+      "fromSide": "right",
+      "toNode": "aca26a25234d55d1",
+      "toSide": "left",
+      "color": "#e6c7ff"
+    },
+    {
+      "id": "7c8704b89eebcf0f",
+      "fromNode": "d1c297eb02879170",
+      "fromSide": "right",
+      "toNode": "70cbab60bc96926b",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "4a2091302195abc7",
+      "fromNode": "70cbab60bc96926b",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "87450f75e3c525fb",
+      "fromNode": "b5645568225400b0",
+      "fromSide": "right",
+      "toNode": "17b12eac3c2eee0d",
+      "toSide": "left",
+      "color": "#ff00ea"
+    },
+    {
+      "id": "037eae566744ee95",
+      "fromNode": "2e0a9a8d5d4b8d8c",
+      "fromSide": "right",
+      "toNode": "b5645568225400b0",
+      "toSide": "left",
+      "color": "#ff00ea"
+    },
+    {
+      "id": "88ee64c48eded135",
+      "fromNode": "17b12eac3c2eee0d",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "b59f8128566df5f7",
+      "fromNode": "ac80c108a897ada0",
+      "fromSide": "right",
+      "toNode": "6044fd007b94093a",
+      "toSide": "left",
+      "color": "#fec686"
+    },
+    {
+      "id": "47d5b4aabe8742b1",
+      "fromNode": "ac80c108a897ada0",
+      "fromSide": "right",
+      "toNode": "650cc267ba116af6",
+      "toSide": "left",
+      "color": "#8f4c00"
+    },
+    {
+      "id": "0f89d73f0f334ed8",
+      "fromNode": "6044fd007b94093a",
+      "fromSide": "right",
+      "toNode": "6a9dbaff76c2090d",
+      "toSide": "left",
+      "color": "#fec686"
+    },
+    {
+      "id": "5e5a8e9199b0460e",
+      "fromNode": "4d24095385cf7439",
+      "fromSide": "right",
+      "toNode": "179dea5a430a6118",
+      "toSide": "left",
+      "color": "#fb00ff"
+    },
+    {
+      "id": "e1cfdefb1862f39f",
+      "fromNode": "01eb0413bbe96e30",
+      "fromSide": "right",
+      "toNode": "179dea5a430a6118",
+      "toSide": "left"
+    },
+    {
+      "id": "098225555b77417c",
+      "fromNode": "179dea5a430a6118",
+      "fromSide": "right",
+      "toNode": "1109af9c058884a0",
+      "toSide": "left",
+      "color": "#fb00ff"
+    },
+    {
+      "id": "d426e0ddd634c340",
+      "fromNode": "1109af9c058884a0",
+      "fromSide": "right",
+      "toNode": "2ae7ec8fb9dd5eb3",
+      "toSide": "left",
+      "color": "#fb00ff"
+    },
+    {
+      "id": "4226fbd3326c5084",
+      "fromNode": "3478a1fa5fee84c3",
+      "fromSide": "right",
+      "toNode": "3afeb8d066ed359a",
+      "toSide": "left",
+      "color": "#fb00ff"
+    },
+    {
+      "id": "144dc22801987ce4",
+      "fromNode": "2ae7ec8fb9dd5eb3",
+      "fromSide": "right",
+      "toNode": "3478a1fa5fee84c3",
+      "toSide": "left",
+      "color": "#fb00ff"
+    },
+    {
+      "id": "1dcd7d83776c4b79",
+      "fromNode": "3afeb8d066ed359a",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "17b06e452144bf66",
+      "fromNode": "46f2c779a6db0ea8",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "24c8a411c9a400a4",
+      "fromNode": "425adbd24713428d",
+      "fromSide": "right",
+      "toNode": "3d41a32004a36de8",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "c0e7f3e1ae4bc1cf",
+      "fromNode": "d0cd17a056c1cc91",
+      "fromSide": "right",
+      "toNode": "425adbd24713428d",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "21909c2435e14b76",
+      "fromNode": "685876d07f8e6884",
+      "fromSide": "right",
+      "toNode": "d780b7686d0d477e",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "7eb36939219d9638",
+      "fromNode": "3d41a32004a36de8",
+      "fromSide": "right",
+      "toNode": "685876d07f8e6884",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "80c6080868151e52",
+      "fromNode": "1f9f803a8c345abf",
+      "fromSide": "right",
+      "toNode": "98f12d79633eed56",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "70ced4cf6fced256",
+      "fromNode": "40779c8abfa80425",
+      "fromSide": "right",
+      "toNode": "1f9f803a8c345abf",
+      "toSide": "left"
+    },
+    {
+      "id": "f3285ca7f121828f",
+      "fromNode": "1f9f803a8c345abf",
+      "fromSide": "right",
+      "toNode": "a8cd5a28cbc1c53e",
+      "toSide": "left",
+      "color": "#395ff3"
+    },
+    {
+      "id": "33b414d2f1c65f80",
+      "fromNode": "d780b7686d0d477e",
+      "fromSide": "right",
+      "toNode": "a4653fa75c3bfef5",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "7bf7f5be30b14aad",
+      "fromNode": "a4653fa75c3bfef5",
+      "fromSide": "right",
+      "toNode": "24e12bfb8eab3513",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "435368f684ed43c5",
+      "fromNode": "765f6641a950af1d",
+      "fromSide": "right",
+      "toNode": "92fae1acf8e608b0",
+      "toSide": "left"
+    },
+    {
+      "id": "2c3e699edc3503ec",
+      "fromNode": "e7dbfa9155d6abd8",
+      "fromSide": "right",
+      "toNode": "3c3627b2ba2d0307",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "8087ab9f0288dc29",
+      "fromNode": "3c3627b2ba2d0307",
+      "fromSide": "right",
+      "toNode": "6a9dbaff76c2090d",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "ca825f0f5cb400ef",
+      "fromNode": "c901524d009aede4",
+      "fromSide": "right",
+      "toNode": "9ef02ef99c3d0f2f",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "997f71a19f292408",
+      "fromNode": "9ef02ef99c3d0f2f",
+      "fromSide": "right",
+      "toNode": "7555250f8eecb3b6",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "12cdfb55845ad3bd",
+      "fromNode": "7555250f8eecb3b6",
+      "fromSide": "right",
+      "toNode": "4a8e35767ddb975b",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "129d32b87d6d47e5",
+      "fromNode": "4a8e35767ddb975b",
+      "fromSide": "right",
+      "toNode": "c52887ecb580827a",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "7c7d1484b9ce1907",
+      "fromNode": "87fb780bf93cf196",
+      "fromSide": "right",
+      "toNode": "306f815edb222b0e",
+      "toSide": "left",
+      "color": "#ff4d4d"
+    },
+    {
+      "id": "d48d867043957bbb",
+      "fromNode": "0cb97fdf0b66fc38",
+      "fromSide": "right",
+      "toNode": "2e21ec151d24de7d",
+      "toSide": "left",
+      "color": "#ff0000"
+    },
+    {
+      "id": "b514e37bbaf506b7",
+      "fromNode": "2e21ec151d24de7d",
+      "fromSide": "right",
+      "toNode": "5a640cb51b265bd7",
+      "toSide": "left",
+      "color": "#ff0000"
+    },
+    {
+      "id": "9ecc4667c5889530",
+      "fromNode": "38d50d292a52377e",
+      "fromSide": "right",
+      "toNode": "ea1fca9dbf036ac9",
+      "toSide": "left",
+      "color": "#a74444"
+    },
+    {
+      "id": "14e3ea2f620b6a8f",
+      "fromNode": "06204cd23dfb7d16",
+      "fromSide": "right",
+      "toNode": "22fbeab1555f77e1",
+      "toSide": "left",
+      "color": "#7a0000"
+    },
+    {
+      "id": "98519f6ab0e0b9eb",
+      "fromNode": "b26af04a87a25642",
+      "fromSide": "right",
+      "toNode": "5578a384ede8d44b",
+      "toSide": "left"
+    },
+    {
+      "id": "c3ff9eae9bc358d5",
+      "fromNode": "22fbeab1555f77e1",
+      "fromSide": "right",
+      "toNode": "5578a384ede8d44b",
+      "toSide": "left",
+      "color": "#7a0000"
+    },
+    {
+      "id": "9e7bc316eb882b5f",
+      "fromNode": "306f815edb222b0e",
+      "fromSide": "right",
+      "toNode": "06e80dc9234f725d",
+      "toSide": "left",
+      "color": "#ff4d4d"
+    },
+    {
+      "id": "ceba67ca1a2b8a45",
+      "fromNode": "5578a384ede8d44b",
+      "fromSide": "right",
+      "toNode": "06e80dc9234f725d",
+      "toSide": "left"
+    },
+    {
+      "id": "58e78a036b211eb0",
+      "fromNode": "5a640cb51b265bd7",
+      "fromSide": "right",
+      "toNode": "b26af04a87a25642",
+      "toSide": "left",
+      "color": "#ff0000"
+    },
+    {
+      "id": "05d0541b704ab6f8",
+      "fromNode": "ea1fca9dbf036ac9",
+      "fromSide": "right",
+      "toNode": "b26af04a87a25642",
+      "toSide": "left",
+      "color": "#a74444"
+    },
+    {
+      "id": "520b3a1443eafadd",
+      "fromNode": "06e80dc9234f725d",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "d82fe5d7bc9f7ace",
+      "fromNode": "bb4dc98e9b1ea507",
+      "fromSide": "right",
+      "toNode": "cf6d5103aa28555b",
+      "toSide": "left",
+      "color": "#6c47ff"
+    },
+    {
+      "id": "11a1f67617db321e",
+      "fromNode": "cf6d5103aa28555b",
+      "fromSide": "right",
+      "toNode": "de33ad95d15f4ed4",
+      "toSide": "left",
+      "color": "#6c47ff"
+    },
+    {
+      "id": "11dfb1d53a97374c",
+      "fromNode": "cf6d5103aa28555b",
+      "fromSide": "right",
+      "toNode": "3e4aa2b398193133",
+      "toSide": "left",
+      "color": "#6c47ff"
+    },
+    {
+      "id": "f75ea1851364f247",
+      "fromNode": "b96694382517a7c3",
+      "fromSide": "right",
+      "toNode": "9628a4cb8ee33db7",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "2cf2f7edc894b399",
+      "fromNode": "4d24095385cf7439",
+      "fromSide": "right",
+      "toNode": "6b3eed4c84005345",
+      "toSide": "left",
+      "color": "#fb00ff"
+    },
+    {
+      "id": "f914c4ca81d83d85",
+      "fromNode": "467235d8b35971be",
+      "fromSide": "right",
+      "toNode": "6b3eed4c84005345",
+      "toSide": "left",
+      "color": "#a4feaa"
+    },
+    {
+      "id": "17b635a72b20699f",
+      "fromNode": "a0a44ef9bcfde230",
+      "fromSide": "right",
+      "toNode": "02efa575b3469fd0",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "8cfdde1b7a22074d",
+      "fromNode": "02efa575b3469fd0",
+      "fromSide": "right",
+      "toNode": "3e73c87780536709",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "75a54a951130b896",
+      "fromNode": "85044daca2d56470",
+      "fromSide": "right",
+      "toNode": "21f609a03e878d8b",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "aa26a5cb140cafcf",
+      "fromNode": "21f609a03e878d8b",
+      "fromSide": "right",
+      "toNode": "9f70f958deaaeee0",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "ff3c2b77563f8a31",
+      "fromNode": "3e73c87780536709",
+      "fromSide": "right",
+      "toNode": "85044daca2d56470",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "44bd01d621fbe14c",
+      "fromNode": "40acdf1937251179",
+      "fromSide": "right",
+      "toNode": "df2a30487ad2ea83",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "e6832e770d0b35b9",
+      "fromNode": "df2a30487ad2ea83",
+      "fromSide": "right",
+      "toNode": "57092b1ffa547298",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "5042f9b3ca9299d5",
+      "fromNode": "ea356f3da52fe64f",
+      "fromSide": "right",
+      "toNode": "e7dbfa9155d6abd8",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "4cb56dbb43c0423b",
+      "fromNode": "57092b1ffa547298",
+      "fromSide": "right",
+      "toNode": "ea356f3da52fe64f",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "2312d3ac4211a4b5",
+      "fromNode": "d4cdf521367bd23d",
+      "fromSide": "right",
+      "toNode": "acdf4bab47185290",
+      "toSide": "left"
+    },
+    {
+      "id": "9be334f44f03d046",
+      "fromNode": "acdf4bab47185290",
+      "fromSide": "right",
+      "toNode": "d7f94c11251f0291",
+      "toSide": "left"
+    },
+    {
+      "id": "841c5e4d26967d4c",
+      "fromNode": "cadd7f93afa56b20",
+      "fromSide": "right",
+      "toNode": "d7f94c11251f0291",
+      "toSide": "left"
+    },
+    {
+      "id": "09a801fcaba09fbd",
+      "fromNode": "57882ac67a8c0251",
+      "fromSide": "right",
+      "toNode": "d7f94c11251f0291",
+      "toSide": "left"
+    },
+    {
+      "id": "d0ac2474c2a289c3",
+      "fromNode": "f18ba6e634b1d964",
+      "fromSide": "right",
+      "toNode": "439fadb666c4520b",
+      "toSide": "left"
+    },
+    {
+      "id": "d02b730b39eeff1c",
+      "fromNode": "439fadb666c4520b",
+      "fromSide": "right",
+      "toNode": "9499bfbf149766b9",
+      "toSide": "left"
+    },
+    {
+      "id": "d3d71239f61e477d",
+      "fromNode": "d7f94c11251f0291",
+      "fromSide": "right",
+      "toNode": "f18ba6e634b1d964",
+      "toSide": "left"
+    },
+    {
+      "id": "b86e6f21c8e8dac8",
+      "fromNode": "9499bfbf149766b9",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "74dec5f87fc2836b",
+      "fromNode": "3c3627b2ba2d0307",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "8b13a27ce3509563",
+      "fromNode": "9a5f44c459731f56",
+      "fromSide": "right",
+      "toNode": "425adbd24713428d",
+      "toSide": "left"
+    },
+    {
+      "id": "5c726484c4755fb2",
+      "fromNode": "9dc3964bf417ed8b",
+      "fromSide": "right",
+      "toNode": "f6945e321c5adaa2",
+      "toSide": "left"
+    },
+    {
+      "id": "ddcfebc2986cbf8d",
+      "fromNode": "f6945e321c5adaa2",
+      "fromSide": "right",
+      "toNode": "7fa589b0adc35057",
+      "toSide": "left"
+    },
+    {
+      "id": "e0c85e5fd096deb2",
+      "fromNode": "7fa589b0adc35057",
+      "fromSide": "right",
+      "toNode": "8ce7613ab214cfc1",
+      "toSide": "left"
+    },
+    {
+      "id": "b11510b20e510348",
+      "fromNode": "8ce7613ab214cfc1",
+      "fromSide": "right",
+      "toNode": "71bdb21767ccd82c",
+      "toSide": "left"
+    },
+    {
+      "id": "5cb4d63531322cff",
+      "fromNode": "71bdb21767ccd82c",
+      "fromSide": "right",
+      "toNode": "ff37acd5c34a8c02",
+      "toSide": "left"
+    },
+    {
+      "id": "8f8914d613325012",
+      "fromNode": "ae813589b9140c72",
+      "fromSide": "right",
+      "toNode": "9dc3964bf417ed8b",
+      "toSide": "left"
+    }
+  ]
 }
