@@ -20,8 +20,6 @@ tags:
 | Pronouns:              | she/her              |
 | Sexuality:             | Pansexual            |
 
-Cyn is a [[Class]] 5 [[Chromatics|Chromatic]].
-
 She usually takes on missions with [[Jay]] and [[Dusk]], though [[Dev]] is also occasionally assigned to work alongside her.
 
 # Personality
