@@ -4,6 +4,7 @@ tags:
   - Blue
   - Character
   - Chromatic
+draft: "true"
 ---
 
 ![[RaineRef.png]]
@@ -37,7 +38,7 @@ Raine originally worked in a law firm as a defense attorney, the same as Cyn's. 
 
 ## [[Cyn]]
 
-Raine's rival. Typically makes snarky comments towards Cyn to get a chance at 1-upping her at any moment she can take. Raine also tries to trick Cyn into revealing sensitive, embarrassing information about herself and her past in front of her teammates. Raine also makes efforts to bait Cyn into starting [[Practice Duels|practice duels]] between themselves, knowing that Cyn will take any chance to fight Raine despite losing many of their previous battles.
+Raine's rival. Typically makes snarky comments towards Cyn to get a chance at 1-upping her at any moment she can take. Raine often tries to trick Cyn into revealing sensitive, embarrassing information about herself and her past in front of her teammates. Raine also makes efforts to bait Cyn into starting [[Practice Duels|practice duels]] between themselves, knowing that Cyn will take any chance to fight Raine, despite Cyn consistently losing many of their previous battles.
 
 # Featured Scenarios
 
